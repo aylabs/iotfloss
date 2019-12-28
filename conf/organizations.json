@@ -10610,6 +10610,24 @@
                 "domain": "sensinov.com",
                 "is_top": true
             }
+        ],
+        "Lynx Technology": [
+            {
+                "domain": "lynxtechnology.com",
+                "is_top": true
+            }
+        ],
+        "Pragmatic minds GmbH": [
+            {
+                "domain": "pragmaticminds.de",
+                "is_top": true
+            }
+        ],
+        "Aloxy": [
+            {
+                "domain": "aloxy.io",
+                "is_top": true
+            }
         ]
     },
     "time": "2016-12-02 07:34:57.999759",

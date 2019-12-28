@@ -1,20 +1,21 @@
 {
-  "Apache": {
     "Camel": {
       "git": [
         "https://github.com/apache/camel"
       ],
       "github": [
         "https://github.com/apache/camel"
-      ]
+      ],
+      "meta"       : { "title" : "Apache" }
     },
     "mynewt-core": {
       "git": [
-          "https://github.com/apache/mynewt-core/tree/develop"
+          "https://github.com/apache/mynewt-core"
         ],
       "github": [
-          "https://github.com/apache/mynewt-core/tree/develop"
-        ]
+          "https://github.com/apache/mynewt-core"
+        ],
+      "meta"       : { "title" : "Apache" }
     },
     "Plc4x": {
       "git": [
@@ -22,7 +23,8 @@
       ],
       "github": [
         "https://github.com/apache/plc4x"
-      ]
+      ],
+      "meta"       : { "title" : "Apache" }
     },
     "Edgent": {
       "git": [
@@ -30,7 +32,8 @@
       ],
       "github": [
         "https://github.com/apache/incubator-retired-edgent"
-      ]
+      ],
+      "meta"       : { "title" : "Apache" }
     },
     "Mxnet": {
       "git": [
@@ -38,7 +41,8 @@
       ],
       "github": [
         "https://github.com/apache/incubator-mxnet"
-      ]
+      ],
+      "meta"       : { "title" : "Apache" }
     },
     "Iotdb": {
       "git": [
@@ -46,27 +50,23 @@
       ],
       "github": [
         "https://github.com/apache/incubator-iotdb"
-      ]
-    }
-  },
-  "Eclipse": {
+      ],
+      "meta"       : { "title" : "Apache" }
+    },
     "iot.cyclonedds": {
       "git": [
         "https://github.com/eclipse/cyclonedds"
       ],
       "github": [
         "https://github.com/eclipse/cyclonedds"
-      ]
-    },
-    "iot.hip": {
-      "git": [
-        "http://git.eclipse.org/gitroot/hip/hip.git"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.duttile": {
       "git": [
         "http://git.eclipse.org/gitroot/duttile/duttile.git"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "technology.iottestware": {
       "git": [
@@ -82,7 +82,8 @@
         "https://github.com/eclipse/iottestware.mqtt",
         "https://github.com/eclipse/iottestware.fuzzing",
         "https://github.com/eclipse/iottestware.opcua"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.leshan": {
       "git": [
@@ -92,7 +93,8 @@
       "github": [
         "https://github.com/eclipse/leshan",
         "https://github.com/eclipse/leshan.osgi"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.ponte": {
       "git": [
@@ -100,7 +102,8 @@
       ],
       "github": [
         "https://github.com/eclipse/ponte"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.concierge": {
       "git": [
@@ -108,7 +111,8 @@
       ],
       "github": [
         "https://github.com/eclipse/concierge"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.wakaama": {
       "git": [
@@ -116,7 +120,8 @@
       ],
       "github": [
         "https://github.com/eclipse/wakaama"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.keyple": {
       "git": [
@@ -124,13 +129,15 @@
       ],
       "github": [
         "https://github.com/eclipse/keyple"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.paho.incubator": {
       "git": [
         "http://git.eclipse.org/gitroot/paho.incubator/org.eclipse.paho.mqtt.lua.git",
         "http://git.eclipse.org/gitroot/paho.incubator/smidge.git"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.californium": {
       "git": [
@@ -148,7 +155,8 @@
         "https://github.com/eclipse/californium.scandium",
         "https://github.com/eclipse/californium.tools",
         "https://github.com/eclipse/californium.core"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.kapua": {
       "git": [
@@ -156,7 +164,8 @@
       ],
       "github": [
         "https://github.com/eclipse/kapua"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.thingweb": {
       "git": [
@@ -166,7 +175,8 @@
       "github": [
         "https://github.com/eclipse/thingweb.website",
         "https://github.com/eclipse/thingweb.node-wot"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.eclipsescada": {
       "git": [
@@ -185,7 +195,8 @@
       ],
       "github": [
         "https://github.com/eclipse/neoscada"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.kura": {
       "git": [
@@ -194,7 +205,8 @@
       ],
       "github": [
         "https://github.com/eclipse/kura"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.ditto": {
       "git": [
@@ -204,7 +216,8 @@
       "github": [
         "https://github.com/eclipse/ditto",
         "https://github.com/eclipse/ditto-examples"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.vorto": {
       "git": [
@@ -212,7 +225,8 @@
       ],
       "github": [
         "https://github.com/eclipse/vorto"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.fog05": {
       "git": [
@@ -220,7 +234,8 @@
       ],
       "github": [
         "https://github.com/eclipse/fog05"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.mosquitto": {
       "git": [
@@ -230,22 +245,26 @@
       "github": [
         "https://github.com/eclipse/mosquitto.rsmb",
         "https://github.com/eclipse/mosquitto"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.agail": {
       "git": [
         "http://git.eclipse.org/gitroot/agail/agail.git"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.tinydtls": {
       "git": [
         "http://git.eclipse.org/gitroot/tinydtls/org.eclipse.tinydtls.git"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.om2m": {
       "git": [
         "http://git.eclipse.org/gitroot/om2m/org.eclipse.om2m.git"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.hawkbit": {
       "git": [
@@ -257,7 +276,8 @@
         "https://github.com/eclipse/hawkbit",
         "https://github.com/eclipse/hawkbit-extensions",
         "https://github.com/eclipse/hawkbit-examples"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.milo": {
       "git": [
@@ -265,7 +285,8 @@
       ],
       "github": [
         "https://github.com/eclipse/milo"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.ignite": {
       "git": [
@@ -274,7 +295,8 @@
       ],
       "github": [
         "https://github.com/eclipse/ignite"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.keti": {
       "git": [
@@ -282,7 +304,8 @@
       ],
       "github": [
         "https://github.com/eclipse/keti"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.hono": {
       "git": [
@@ -290,7 +313,8 @@
       ],
       "github": [
         "https://github.com/eclipse/hono"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.paho": {
       "git": [
@@ -331,7 +355,8 @@
         "https://github.com/eclipse/paho.mqtt-spy",
         "https://github.com/eclipse/paho.mqtt.ruby",
         "https://github.com/eclipse/paho.mqtt.rust"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.unide": {
       "git": [
@@ -343,7 +368,8 @@
         "https://github.com/eclipse/unide",
         "https://github.com/eclipse/unide.java",
         "https://github.com/eclipse/unide.python"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.mita": {
       "git": [
@@ -351,7 +377,8 @@
       ],
       "github": [
         "https://github.com/eclipse/mita"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.kuksa": {
       "git": [
@@ -371,12 +398,14 @@
         "https://github.com/eclipse/kuksa.integration",
         "https://github.com/eclipse/kuksa.invehicle",
         "https://github.com/eclipse/kuksa.website"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.iofog": {
       "git": [
         "http://git.eclipse.org/gitroot/iofog/org.eclipse.iofog.git"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.tahu": {
       "git": [
@@ -384,14 +413,16 @@
       ],
       "github": [
         "https://github.com/eclipse/tahu"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.4diac": {
       "git": [
         "http://git.eclipse.org/gitroot/4diac/org.eclipse.4diac.examples.git",
         "http://git.eclipse.org/gitroot/4diac/org.eclipse.4diac.forte.git",
         "http://git.eclipse.org/gitroot/4diac/org.eclipse.4diac.ide.git"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.smarthome": {
       "git": [
@@ -405,7 +436,8 @@
         "https://github.com/eclipse/smarthome.osgi-ri.enocean",
         "https://github.com/eclipse/smarthome-packaging-sample",
         "https://github.com/eclipse/smarthome-designer"
-      ]
+      ],
+      "meta"       : { "title" : "Eclipse" }
     },
     "iot.volttron": {
       "git": [
@@ -419,10 +451,9 @@
         "https://github.com/VOLTTRON/volttron-applications",
         "https://github.com/VOLTTRON/volttron-fuel-cells",
         "https://github.com/VOLTTRON/volttron-docker"
-      ]
-    }
-  },
-  "Linux": {
+      ],
+      "meta"       : { "title" : "Eclipse" }
+    },
     "Iotivity": {
       "git": [
         "https://github.com/iotivity/iotivity",
@@ -447,7 +478,8 @@
         "https://github.com/iotivity/iotivity-xmpp",
         "https://github.com/iotivity/iotivity-node",
         "https://github.com/iotivity/iotivity-contrib"
-      ]
+      ],
+      "meta"       : { "title" : "Linux" }
     },
     "EdgeX Foundry": {
       "git": [
@@ -527,7 +559,8 @@
         "https://github.com/edgexfoundry/security-secret-store",
         "https://github.com/edgexfoundry/go-mod-messaging",
         "https://github.com/edgexfoundry/git-semver"
-      ]
+      ],
+      "meta"       : { "title" : "Linux" }
     },
     "Dronecode": {
       "git": [
@@ -565,7 +598,8 @@
         "https://github.com/Dronecode/Dronecode-Website-Issues",
         "https://github.com/Dronecode/Dronecode-util",
         "https://github.com/Dronecode/Vagrant"
-      ]
+      ],
+      "meta"       : { "title" : "Linux" }
     },
     "Zephyr": {
       "git": [
@@ -573,7 +607,8 @@
       ],
       "github": [
         "https://github.com/zephyrproject-rtos/zephyr"
-      ]
+      ],
+      "meta"       : { "title" : "Linux" }
     },
     "Akraino": {
       "git": [
@@ -755,15 +790,17 @@
         "https://github.com/akraino-edge-stack/starlingx",
         "https://github.com/akraino-edge-stack/kni-blueprint-ie",
         "https://github.com/akraino-edge-stack/serverless"
-      ]
+      ],
+      "meta"       : { "title" : "Linux" }
     },
     "Baetyl": {
       "git": [
         "https://github.com/baetyl/baetyl.git"
       ],
       "github": [
-        "https://github.com/baetyl/baetyl.git"
-      ]
+        "https://github.com/baetyl/baetyl"
+      ],
+      "meta"       : { "title" : "Linux" }
     },
     "Eve": {
       "git": [
@@ -771,7 +808,8 @@
       ],
       "github": [
         "https://github.com/lf-edge/eve"
-      ]
+      ],
+      "meta"       : { "title" : "Linux" }
     },
     "Fledge": {
       "git": [
@@ -779,31 +817,34 @@
       ],
       "github": [
         "https://github.com/foglamp/FogLAMP"
-      ]
+      ],
+      "meta"       : { "title" : "Linux" }
     },
     "HomeEdge": {
       "git": [
         "https://github.com/lf-edge/edge-home-orchestration-go.git"
       ],
       "github": [
-        "https://github.com/lf-edge/edge-home-orchestration-go.git"
-      ]
+        "https://github.com/lf-edge/edge-home-orchestration-go"
+      ],
+      "meta"       : { "title" : "Linux" }
     },
     "OpenGlossary": {
       "git": [
         "https://github.com/lf-edge/glossary.git"
       ],
       "github": [
-        "https://github.com/lf-edge/glossary.git"
-      ]
+        "https://github.com/lf-edge/glossary"
+      ],
+      "meta"       : { "title" : "Linux" }
     },
     "Mainflux": {
       "git": [
         "https://github.com/mainflux/mainflux.git"
       ],
       "github": [
-        "https://github.com/mainflux/mainflux.git"
-      ]
+        "https://github.com/mainflux/mainflux"
+      ],
+      "meta"       : { "title" : "Linux" }
     }
-  }
 }
