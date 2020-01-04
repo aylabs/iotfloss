@@ -1,94 +1,101 @@
 {
     "Camel": {
       "git": [
-        "https://github.com/apache/camel"
+        "https://github.com/apache/camel --labels=[integration]"
       ],
       "github": [
-        "https://github.com/apache/camel"
+        "https://github.com/apache/camel --labels=[integration]"
       ],
-      "meta"       : { "title" : "Apache" }
+      "meta": { "title" : "Apache" }
     },
     "mynewt-core": {
       "git": [
-          "https://github.com/apache/mynewt-core"
+          "https://github.com/apache/mynewt-core --labels=[os_virtualization]"
         ],
       "github": [
-          "https://github.com/apache/mynewt-core"
+          "https://github.com/apache/mynewt-core --labels=[os_virtualization]"
         ],
-      "meta"       : { "title" : "Apache" }
+      "meta": { "title" : "Apache" }
     },
     "Plc4x": {
       "git": [
-        "https://github.com/apache/plc4x"
+        "https://github.com/apache/plc4x --labels=[protocols]"
       ],
       "github": [
-        "https://github.com/apache/plc4x"
+        "https://github.com/apache/plc4x --labels=[protocols]"
       ],
-      "meta"       : { "title" : "Apache" }
+      "meta": { "title" : "Apache" }
     },
     "Edgent": {
       "git": [
-        "https://github.com/apache/incubator-retired-edgent"
+        "https://github.com/apache/incubator-retired-edgent --labels=[processing]"
       ],
       "github": [
-        "https://github.com/apache/incubator-retired-edgent"
+        "https://github.com/apache/incubator-retired-edgent --labels=[processing]"
       ],
-      "meta"       : { "title" : "Apache" }
+      "meta": { "title" : "Apache" }
     },
     "Mxnet": {
       "git": [
-        "https://github.com/apache/incubator-mxnet"
+        "https://github.com/apache/incubator-mxnet --labels=[processing]"
       ],
       "github": [
-        "https://github.com/apache/incubator-mxnet"
+        "https://github.com/apache/incubator-mxnet --labels=[processing]"
       ],
-      "meta"       : { "title" : "Apache" }
+      "meta": { "title" : "Apache" }
     },
     "IoTDB": {
       "git": [
-        "https://github.com/apache/incubator-iotdb"
+        "https://github.com/apache/incubator-iotdb --labels=[persistence]"
       ],
       "github": [
-        "https://github.com/apache/incubator-iotdb"
+        "https://github.com/apache/incubator-iotdb --labels=[persistence]"
       ],
-      "meta"       : { "title" : "Apache" }
+      "meta": { "title" : "Apache" }
     },
     "NiFi": {
       "git": [
-        "https://github.com/apache/nifi",
-        "https://github.com/apache/nifi-minifi",
-        "https://github.com/apache/nifi-registry",
-        "https://github.com/apache/nifi-minifi-cpp",
-        "https://github.com/apache/nifi-site",
-        "https://github.com/apache/nifi-fds",
-        "https://github.com/apache/nifi-container",
-        "https://github.com/apache/nifi-standard-libraries"
+        "https://github.com/apache/nifi --labels=[integration]",
+        "https://github.com/apache/nifi-minifi --labels=[integration]",
+        "https://github.com/apache/nifi-registry --labels=[integration]",
+        "https://github.com/apache/nifi-minifi-cpp --labels=[integration]",
+        "https://github.com/apache/nifi-site --labels=[integration]",
+        "https://github.com/apache/nifi-fds --labels=[integration]",
+        "https://github.com/apache/nifi-container --labels=[integration]",
+        "https://github.com/apache/nifi-standard-libraries --labels=[integration]"
       ],
       "github": [
-        "https://github.com/apache/nifi",
-        "https://github.com/apache/nifi-minifi",
-        "https://github.com/apache/nifi-registry",
-        "https://github.com/apache/nifi-minifi-cpp",
-        "https://github.com/apache/nifi-site",
-        "https://github.com/apache/nifi-fds",
-        "https://github.com/apache/nifi-container",
-        "https://github.com/apache/nifi-standard-libraries"
+        "https://github.com/apache/nifi --labels=[integration]",
+        "https://github.com/apache/nifi-minifi --labels=[integration]",
+        "https://github.com/apache/nifi-registry --labels=[integration]",
+        "https://github.com/apache/nifi-minifi-cpp --labels=[integration]",
+        "https://github.com/apache/nifi-site --labels=[integration]",
+        "https://github.com/apache/nifi-fds --labels=[integration]",
+        "https://github.com/apache/nifi-container --labels=[integration]",
+        "https://github.com/apache/nifi-standard-libraries --labels=[integration]"
       ],
-      "meta"       : { "title" : "Apache" }
+      "meta": { "title" : "Apache" }
     },
     "Brooklyn": {
       "git": [
-        "https://github.com/apache/brooklyn",
-        "https://github.com/apache/brooklyn-server",
-        "https://github.com/apache/brooklyn-ui",
-        "https://github.com/apache/brooklyn-library",
-        "https://github.com/apache/brooklyn-client",
-        "https://github.com/apache/brooklyn-dist",
-        "https://github.com/apache/brooklyn-docs"
+        "https://github.com/apache/brooklyn --labels=[applications]",
+        "https://github.com/apache/brooklyn-server --labels=[applications]",
+        "https://github.com/apache/brooklyn-ui --labels=[applications]",
+        "https://github.com/apache/brooklyn-library --labels=[applications]",
+        "https://github.com/apache/brooklyn-client --labels=[applications]",
+        "https://github.com/apache/brooklyn-dist --labels=[applications]",
+        "https://github.com/apache/brooklyn-docs --labels=[applications]"
       ],
       "github": [
+        "https://github.com/apache/brooklyn --labels=[applications]",
+        "https://github.com/apache/brooklyn-server --labels=[applications]",
+        "https://github.com/apache/brooklyn-ui --labels=[applications]",
+        "https://github.com/apache/brooklyn-library --labels=[applications]",
+        "https://github.com/apache/brooklyn-client --labels=[applications]",
+        "https://github.com/apache/brooklyn-dist --labels=[applications]",
+        "https://github.com/apache/brooklyn-docs --labels=[applications]"
       ],
-      "meta"       : { "title" : "Apache" }
+      "meta": { "title" : "Apache" }
     },
 
     "iot.cyclonedds": {
@@ -98,13 +105,13 @@
       "github": [
         "https://github.com/eclipse/cyclonedds"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.duttile": {
       "git": [
         "http://git.eclipse.org/gitroot/duttile/duttile.git"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "technology.iottestware": {
       "git": [
@@ -121,7 +128,7 @@
         "https://github.com/eclipse/iottestware.fuzzing",
         "https://github.com/eclipse/iottestware.opcua"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.leshan": {
       "git": [
@@ -132,7 +139,7 @@
         "https://github.com/eclipse/leshan",
         "https://github.com/eclipse/leshan.osgi"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.ponte": {
       "git": [
@@ -141,7 +148,7 @@
       "github": [
         "https://github.com/eclipse/ponte"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.concierge": {
       "git": [
@@ -150,7 +157,7 @@
       "github": [
         "https://github.com/eclipse/concierge"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.wakaama": {
       "git": [
@@ -159,7 +166,7 @@
       "github": [
         "https://github.com/eclipse/wakaama"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.keyple": {
       "git": [
@@ -168,14 +175,14 @@
       "github": [
         "https://github.com/eclipse/keyple"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.paho.incubator": {
       "git": [
         "http://git.eclipse.org/gitroot/paho.incubator/org.eclipse.paho.mqtt.lua.git",
         "http://git.eclipse.org/gitroot/paho.incubator/smidge.git"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.californium": {
       "git": [
@@ -194,7 +201,7 @@
         "https://github.com/eclipse/californium.tools",
         "https://github.com/eclipse/californium.core"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.kapua": {
       "git": [
@@ -203,7 +210,7 @@
       "github": [
         "https://github.com/eclipse/kapua"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.thingweb": {
       "git": [
@@ -214,7 +221,7 @@
         "https://github.com/eclipse/thingweb.website",
         "https://github.com/eclipse/thingweb.node-wot"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.eclipsescada": {
       "git": [
@@ -234,7 +241,7 @@
       "github": [
         "https://github.com/eclipse/neoscada"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.kura": {
       "git": [
@@ -244,7 +251,7 @@
       "github": [
         "https://github.com/eclipse/kura"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.ditto": {
       "git": [
@@ -255,7 +262,7 @@
         "https://github.com/eclipse/ditto",
         "https://github.com/eclipse/ditto-examples"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.vorto": {
       "git": [
@@ -264,7 +271,7 @@
       "github": [
         "https://github.com/eclipse/vorto"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.fog05": {
       "git": [
@@ -273,7 +280,7 @@
       "github": [
         "https://github.com/eclipse/fog05"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.mosquitto": {
       "git": [
@@ -284,25 +291,25 @@
         "https://github.com/eclipse/mosquitto.rsmb",
         "https://github.com/eclipse/mosquitto"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.agail": {
       "git": [
         "http://git.eclipse.org/gitroot/agail/agail.git"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.tinydtls": {
       "git": [
         "http://git.eclipse.org/gitroot/tinydtls/org.eclipse.tinydtls.git"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.om2m": {
       "git": [
         "http://git.eclipse.org/gitroot/om2m/org.eclipse.om2m.git"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.hawkbit": {
       "git": [
@@ -315,7 +322,7 @@
         "https://github.com/eclipse/hawkbit-extensions",
         "https://github.com/eclipse/hawkbit-examples"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.milo": {
       "git": [
@@ -324,7 +331,7 @@
       "github": [
         "https://github.com/eclipse/milo"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.ignite": {
       "git": [
@@ -334,7 +341,7 @@
       "github": [
         "https://github.com/eclipse/ignite"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.keti": {
       "git": [
@@ -343,7 +350,7 @@
       "github": [
         "https://github.com/eclipse/keti"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.hono": {
       "git": [
@@ -352,7 +359,7 @@
       "github": [
         "https://github.com/eclipse/hono"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.paho": {
       "git": [
@@ -394,7 +401,7 @@
         "https://github.com/eclipse/paho.mqtt.ruby",
         "https://github.com/eclipse/paho.mqtt.rust"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.unide": {
       "git": [
@@ -407,7 +414,7 @@
         "https://github.com/eclipse/unide.java",
         "https://github.com/eclipse/unide.python"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.mita": {
       "git": [
@@ -416,7 +423,7 @@
       "github": [
         "https://github.com/eclipse/mita"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.kuksa": {
       "git": [
@@ -437,13 +444,13 @@
         "https://github.com/eclipse/kuksa.invehicle",
         "https://github.com/eclipse/kuksa.website"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.iofog": {
       "git": [
         "http://git.eclipse.org/gitroot/iofog/org.eclipse.iofog.git"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.tahu": {
       "git": [
@@ -452,7 +459,7 @@
       "github": [
         "https://github.com/eclipse/tahu"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.4diac": {
       "git": [
@@ -460,7 +467,7 @@
         "http://git.eclipse.org/gitroot/4diac/org.eclipse.4diac.forte.git",
         "http://git.eclipse.org/gitroot/4diac/org.eclipse.4diac.ide.git"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.smarthome": {
       "git": [
@@ -475,7 +482,7 @@
         "https://github.com/eclipse/smarthome-packaging-sample",
         "https://github.com/eclipse/smarthome-designer"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "iot.volttron": {
       "git": [
@@ -490,7 +497,7 @@
         "https://github.com/VOLTTRON/volttron-fuel-cells",
         "https://github.com/VOLTTRON/volttron-docker"
       ],
-      "meta"       : { "title" : "Eclipse" }
+      "meta": { "title" : "Eclipse" }
     },
     "Iotivity": {
       "git": [
@@ -517,7 +524,7 @@
         "https://github.com/iotivity/iotivity-node",
         "https://github.com/iotivity/iotivity-contrib"
       ],
-      "meta"       : { "title" : "Linux" }
+      "meta": { "title" : "Linux" }
     },
     "EdgeX Foundry": {
       "git": [
@@ -598,7 +605,7 @@
         "https://github.com/edgexfoundry/go-mod-messaging",
         "https://github.com/edgexfoundry/git-semver"
       ],
-      "meta"       : { "title" : "Linux" }
+      "meta": { "title" : "Linux" }
     },
     "Dronecode": {
       "git": [
@@ -637,7 +644,7 @@
         "https://github.com/Dronecode/Dronecode-util",
         "https://github.com/Dronecode/Vagrant"
       ],
-      "meta"       : { "title" : "Linux" }
+      "meta": { "title" : "Linux" }
     },
     "Zephyr": {
       "git": [
@@ -646,7 +653,7 @@
       "github": [
         "https://github.com/zephyrproject-rtos/zephyr"
       ],
-      "meta"       : { "title" : "Linux" }
+      "meta": { "title" : "Linux" }
     },
     "Akraino": {
       "git": [
@@ -829,7 +836,7 @@
         "https://github.com/akraino-edge-stack/kni-blueprint-ie",
         "https://github.com/akraino-edge-stack/serverless"
       ],
-      "meta"       : { "title" : "Linux" }
+      "meta": { "title" : "Linux" }
     },
     "Baetyl": {
       "git": [
@@ -838,7 +845,7 @@
       "github": [
         "https://github.com/baetyl/baetyl"
       ],
-      "meta"       : { "title" : "Linux" }
+      "meta": { "title" : "Linux" }
     },
     "Eve": {
       "git": [
@@ -847,7 +854,7 @@
       "github": [
         "https://github.com/lf-edge/eve"
       ],
-      "meta"       : { "title" : "Linux" }
+      "meta": { "title" : "Linux" }
     },
     "Fledge": {
       "git": [
@@ -856,7 +863,7 @@
       "github": [
         "https://github.com/foglamp/FogLAMP"
       ],
-      "meta"       : { "title" : "Linux" }
+      "meta": { "title" : "Linux" }
     },
     "HomeEdge": {
       "git": [
@@ -865,7 +872,7 @@
       "github": [
         "https://github.com/lf-edge/edge-home-orchestration-go"
       ],
-      "meta"       : { "title" : "Linux" }
+      "meta": { "title" : "Linux" }
     },
     "OpenGlossary": {
       "git": [
@@ -874,7 +881,7 @@
       "github": [
         "https://github.com/lf-edge/glossary"
       ],
-      "meta"       : { "title" : "Linux" }
+      "meta": { "title" : "Linux" }
     },
     "Mainflux": {
       "git": [
@@ -883,6 +890,6 @@
       "github": [
         "https://github.com/mainflux/mainflux"
       ],
-      "meta"       : { "title" : "Linux" }
+      "meta": { "title" : "Linux" }
     }
 }
