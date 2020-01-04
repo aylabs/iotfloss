@@ -44,7 +44,7 @@
       ],
       "meta"       : { "title" : "Apache" }
     },
-    "Iotdb": {
+    "IoTDB": {
       "git": [
         "https://github.com/apache/incubator-iotdb"
       ],
@@ -53,6 +53,44 @@
       ],
       "meta"       : { "title" : "Apache" }
     },
+    "NiFi": {
+      "git": [
+        "https://github.com/apache/nifi",
+        "https://github.com/apache/nifi-minifi",
+        "https://github.com/apache/nifi-registry",
+        "https://github.com/apache/nifi-minifi-cpp",
+        "https://github.com/apache/nifi-site",
+        "https://github.com/apache/nifi-fds",
+        "https://github.com/apache/nifi-container",
+        "https://github.com/apache/nifi-standard-libraries"
+      ],
+      "github": [
+        "https://github.com/apache/nifi",
+        "https://github.com/apache/nifi-minifi",
+        "https://github.com/apache/nifi-registry",
+        "https://github.com/apache/nifi-minifi-cpp",
+        "https://github.com/apache/nifi-site",
+        "https://github.com/apache/nifi-fds",
+        "https://github.com/apache/nifi-container",
+        "https://github.com/apache/nifi-standard-libraries"
+      ],
+      "meta"       : { "title" : "Apache" }
+    },
+    "Brooklyn": {
+      "git": [
+        "https://github.com/apache/brooklyn",
+        "https://github.com/apache/brooklyn-server",
+        "https://github.com/apache/brooklyn-ui",
+        "https://github.com/apache/brooklyn-library",
+        "https://github.com/apache/brooklyn-client",
+        "https://github.com/apache/brooklyn-dist",
+        "https://github.com/apache/brooklyn-docs"
+      ],
+      "github": [
+      ],
+      "meta"       : { "title" : "Apache" }
+    },
+
     "iot.cyclonedds": {
       "git": [
         "https://github.com/eclipse/cyclonedds"
