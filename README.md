@@ -8,9 +8,11 @@ More than 50 projects have been analyzed and all of them are classified in the c
  
 The data will be presented as dashboards that all attendees can consult online and all the data could be shared with interested people for further analysis.
 
-# Run GrimoireLab
+# Creating the web dashboards based on GrimoireLab
 
-In order execute GrimoireLab, you can use the docker-compose included in the folder conf. You need:
+If you want to create from scratch the web dashboards instead of using the online version, you need to use GrimoireLab.
+
+In order execute GrimoireLab to generate the web dashboards, you can use the docker-compose included in the folder conf. You need:
 
 * A [Git](https://git-scm.com/) client to download the repo
 * [Docker Engine](https://docs.docker.com/install/) and [Docker Compose](https://docs.docker.com/compose/install/)
