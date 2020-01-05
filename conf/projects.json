@@ -19,10 +19,10 @@
     },
     "Plc4x": {
       "git": [
-        "https://github.com/apache/plc4x --labels=[protocols]"
+        "https://github.com/apache/plc4x --labels=[protocol]"
       ],
       "github": [
-        "https://github.com/apache/plc4x --labels=[protocols]"
+        "https://github.com/apache/plc4x --labels=[protocol]"
       ],
       "meta": { "title" : "Apache" }
     },
@@ -78,32 +78,32 @@
     },
     "Brooklyn": {
       "git": [
-        "https://github.com/apache/brooklyn --labels=[applications]",
-        "https://github.com/apache/brooklyn-server --labels=[applications]",
-        "https://github.com/apache/brooklyn-ui --labels=[applications]",
-        "https://github.com/apache/brooklyn-library --labels=[applications]",
-        "https://github.com/apache/brooklyn-client --labels=[applications]",
-        "https://github.com/apache/brooklyn-dist --labels=[applications]",
-        "https://github.com/apache/brooklyn-docs --labels=[applications]"
+        "https://github.com/apache/brooklyn --labels=[application]",
+        "https://github.com/apache/brooklyn-server --labels=[application]",
+        "https://github.com/apache/brooklyn-ui --labels=[application]",
+        "https://github.com/apache/brooklyn-library --labels=[application]",
+        "https://github.com/apache/brooklyn-client --labels=[application]",
+        "https://github.com/apache/brooklyn-dist --labels=[application]",
+        "https://github.com/apache/brooklyn-docs --labels=[application]"
       ],
       "github": [
-        "https://github.com/apache/brooklyn --labels=[applications]",
-        "https://github.com/apache/brooklyn-server --labels=[applications]",
-        "https://github.com/apache/brooklyn-ui --labels=[applications]",
-        "https://github.com/apache/brooklyn-library --labels=[applications]",
-        "https://github.com/apache/brooklyn-client --labels=[applications]",
-        "https://github.com/apache/brooklyn-dist --labels=[applications]",
-        "https://github.com/apache/brooklyn-docs --labels=[applications]"
+        "https://github.com/apache/brooklyn --labels=[application]",
+        "https://github.com/apache/brooklyn-server --labels=[application]",
+        "https://github.com/apache/brooklyn-ui --labels=[application]",
+        "https://github.com/apache/brooklyn-library --labels=[application]",
+        "https://github.com/apache/brooklyn-client --labels=[application]",
+        "https://github.com/apache/brooklyn-dist --labels=[application]",
+        "https://github.com/apache/brooklyn-docs --labels=[application]"
       ],
       "meta": { "title" : "Apache" }
     },
 
     "iot.cyclonedds": {
       "git": [
-        "https://github.com/eclipse/cyclonedds"
+        "https://github.com/eclipse/cyclonedds --labels=[protocol]"
       ],
       "github": [
-        "https://github.com/eclipse/cyclonedds"
+        "https://github.com/eclipse/cyclonedds --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
@@ -115,221 +115,221 @@
     },
     "technology.iottestware": {
       "git": [
-        "https://github.com/eclipse/iottestware",
-        "https://github.com/eclipse/iottestware.coap",
-        "https://github.com/eclipse/iottestware.mqtt",
-        "https://github.com/eclipse/iottestware.opcua",
-        "https://github.com/eclipse/iottestware.fuzzing"
+        "https://github.com/eclipse/iottestware --labels=[protocol]",
+        "https://github.com/eclipse/iottestware.coap --labels=[protocol]",
+        "https://github.com/eclipse/iottestware.mqtt --labels=[protocol]",
+        "https://github.com/eclipse/iottestware.opcua --labels=[protocol]",
+        "https://github.com/eclipse/iottestware.fuzzing --labels=[protocol]"
       ],
       "github": [
-        "https://github.com/eclipse/iottestware",
-        "https://github.com/eclipse/iottestware.coap",
-        "https://github.com/eclipse/iottestware.mqtt",
-        "https://github.com/eclipse/iottestware.fuzzing",
-        "https://github.com/eclipse/iottestware.opcua"
+        "https://github.com/eclipse/iottestware --labels=[protocol]",
+        "https://github.com/eclipse/iottestware.coap --labels=[protocol]",
+        "https://github.com/eclipse/iottestware.mqtt --labels=[protocol]",
+        "https://github.com/eclipse/iottestware.fuzzing --labels=[protocol]",
+        "https://github.com/eclipse/iottestware.opcua --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.leshan": {
       "git": [
-        "https://github.com/eclipse/leshan",
-        "https://github.com/eclipse/leshan.osgi"
+        "https://github.com/eclipse/leshan --labels=[protocol]",
+        "https://github.com/eclipse/leshan.osgi --labels=[protocol]"
       ],
       "github": [
-        "https://github.com/eclipse/leshan",
-        "https://github.com/eclipse/leshan.osgi"
+        "https://github.com/eclipse/leshan --labels=[protocol]",
+        "https://github.com/eclipse/leshan.osgi --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.ponte": {
       "git": [
-        "https://github.com/eclipse/ponte"
+        "https://github.com/eclipse/ponte --labels=[framework]"
       ],
       "github": [
-        "https://github.com/eclipse/ponte"
+        "https://github.com/eclipse/ponte --labels=[framework]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.concierge": {
       "git": [
-        "https://github.com/eclipse/concierge"
+        "https://github.com/eclipse/concierge --labels=[os_virtualization]"
       ],
       "github": [
-        "https://github.com/eclipse/concierge"
+        "https://github.com/eclipse/concierge --labels=[os_virtualization]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.wakaama": {
       "git": [
-        "https://github.com/eclipse/wakaama"
+        "https://github.com/eclipse/wakaama --labels=[protocol]"
       ],
       "github": [
-        "https://github.com/eclipse/wakaama"
+        "https://github.com/eclipse/wakaama --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.keyple": {
       "git": [
-        "https://github.com/eclipse/keyple"
+        "https://github.com/eclipse/keyple --labels=[protocol]"
       ],
       "github": [
-        "https://github.com/eclipse/keyple"
+        "https://github.com/eclipse/keyple --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.paho.incubator": {
       "git": [
-        "http://git.eclipse.org/gitroot/paho.incubator/org.eclipse.paho.mqtt.lua.git",
-        "http://git.eclipse.org/gitroot/paho.incubator/smidge.git"
+        "http://git.eclipse.org/gitroot/paho.incubator/org.eclipse.paho.mqtt.lua.git --labels=[protocol]",
+        "http://git.eclipse.org/gitroot/paho.incubator/smidge.git --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.californium": {
       "git": [
-        "https://github.com/eclipse/californium",
-        "https://github.com/eclipse/californium.tools",
-        "https://github.com/eclipse/californium.actinium",
-        "https://github.com/eclipse/californium.element-connector",
-        "https://github.com/eclipse/californium.scandium",
-        "https://github.com/eclipse/californium.core"
+        "https://github.com/eclipse/californium --labels=[protocol]",
+        "https://github.com/eclipse/californium.tools --labels=[protocol]",
+        "https://github.com/eclipse/californium.actinium --labels=[protocol]",
+        "https://github.com/eclipse/californium.element-connector --labels=[protocol]",
+        "https://github.com/eclipse/californium.scandium --labels=[protocol]",
+        "https://github.com/eclipse/californium.core --labels=[protocol]"
       ],
       "github": [
-        "https://github.com/eclipse/californium",
-        "https://github.com/eclipse/californium.actinium",
-        "https://github.com/eclipse/californium.element-connector",
-        "https://github.com/eclipse/californium.scandium",
-        "https://github.com/eclipse/californium.tools",
-        "https://github.com/eclipse/californium.core"
+        "https://github.com/eclipse/californium --labels=[protocol]",
+        "https://github.com/eclipse/californium.actinium --labels=[protocol]",
+        "https://github.com/eclipse/californium.element-connector --labels=[protocol]",
+        "https://github.com/eclipse/californium.scandium --labels=[protocol]",
+        "https://github.com/eclipse/californium.tools --labels=[protocol]",
+        "https://github.com/eclipse/californium.core --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.kapua": {
       "git": [
-        "https://github.com/eclipse/kapua"
+        "https://github.com/eclipse/kapua --labels=[platform]"
       ],
       "github": [
-        "https://github.com/eclipse/kapua"
+        "https://github.com/eclipse/kapua --labels=[platform]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.thingweb": {
       "git": [
-        "https://github.com/eclipse/thingweb.node-wot",
-        "https://github.com/eclipse/thingweb.website"
+        "https://github.com/eclipse/thingweb.node-wot --labels=[platform]",
+        "https://github.com/eclipse/thingweb.website --labels=[platform]"
       ],
       "github": [
-        "https://github.com/eclipse/thingweb.website",
-        "https://github.com/eclipse/thingweb.node-wot"
+        "https://github.com/eclipse/thingweb.website --labels=[platform]",
+        "https://github.com/eclipse/thingweb.node-wot --labels=[platform]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.eclipsescada": {
       "git": [
-        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.utils.git",
-        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.base.git",
-        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.chart.git",
-        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.protocols.git",
-        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.core.git",
-        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.hmi.git",
-        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.ide.git",
-        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.deploy.git",
-        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.releng.git",
-        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.external.git",
-        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.samples.git",
-        "https://github.com/eclipse/neoscada"
+        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.utils.git --labels=[application]",
+        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.base.git --labels=[application]",
+        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.chart.git --labels=[application]",
+        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.protocol.git --labels=[application]",
+        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.core.git --labels=[application]",
+        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.hmi.git --labels=[application]",
+        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.ide.git --labels=[application]",
+        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.deploy.git --labels=[application]",
+        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.releng.git --labels=[application]",
+        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.external.git --labels=[application]",
+        "http://git.eclipse.org/gitroot/eclipsescada/org.eclipse.scada.samples.git --labels=[application]",
+        "https://github.com/eclipse/neoscada --labels=[application]"
       ],
       "github": [
-        "https://github.com/eclipse/neoscada"
+        "https://github.com/eclipse/neoscada --labels=[application]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.kura": {
       "git": [
-        "https://github.com/eclipse/kura",
-        "https://github.com/eclipse/kura-apps"
+        "https://github.com/eclipse/kura --labels=[integration]",
+        "https://github.com/eclipse/kura-apps --labels=[integration]"
       ],
       "github": [
-        "https://github.com/eclipse/kura"
+        "https://github.com/eclipse/kura --labels=[integration]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.ditto": {
       "git": [
-        "https://github.com/eclipse/ditto",
-        "https://github.com/eclipse/ditto-examples"
+        "https://github.com/eclipse/ditto --labels=[application]",
+        "https://github.com/eclipse/ditto-examples --labels=[application]"
       ],
       "github": [
-        "https://github.com/eclipse/ditto",
-        "https://github.com/eclipse/ditto-examples"
+        "https://github.com/eclipse/ditto --labels=[application]",
+        "https://github.com/eclipse/ditto-examples --labels=[application]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.vorto": {
       "git": [
-        "https://github.com/eclipse/vorto"
+        "https://github.com/eclipse/vorto --labels=[application]"
       ],
       "github": [
-        "https://github.com/eclipse/vorto"
+        "https://github.com/eclipse/vorto --labels=[application]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.fog05": {
       "git": [
-        "https://github.com/eclipse/fog05"
+        "https://github.com/eclipse/fog05 --labels=[fog]"
       ],
       "github": [
-        "https://github.com/eclipse/fog05"
+        "https://github.com/eclipse/fog05 --labels=[fog]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.mosquitto": {
       "git": [
-        "https://github.com/eclipse/mosquitto",
-        "https://github.com/eclipse/mosquitto.rsmb"
+        "https://github.com/eclipse/mosquitto --labels=[platform]",
+        "https://github.com/eclipse/mosquitto.rsmb --labels=[platform]"
       ],
       "github": [
-        "https://github.com/eclipse/mosquitto.rsmb",
-        "https://github.com/eclipse/mosquitto"
+        "https://github.com/eclipse/mosquitto.rsmb --labels=[platform]",
+        "https://github.com/eclipse/mosquitto --labels=[platform]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.agail": {
       "git": [
-        "http://git.eclipse.org/gitroot/agail/agail.git"
+        "http://git.eclipse.org/gitroot/agail/agail.git --labels=[integration]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.tinydtls": {
       "git": [
-        "http://git.eclipse.org/gitroot/tinydtls/org.eclipse.tinydtls.git"
+        "http://git.eclipse.org/gitroot/tinydtls/org.eclipse.tinydtls.git --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.om2m": {
       "git": [
-        "http://git.eclipse.org/gitroot/om2m/org.eclipse.om2m.git"
+        "http://git.eclipse.org/gitroot/om2m/org.eclipse.om2m.git --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.hawkbit": {
       "git": [
-        "https://github.com/eclipse/hawkbit",
-        "https://github.com/eclipse/hawkbit-extensions",
-        "https://github.com/eclipse/hawkbit-examples"
+        "https://github.com/eclipse/hawkbit --labels=[os_virtualization]",
+        "https://github.com/eclipse/hawkbit-extensions --labels=[os_virtualization]",
+        "https://github.com/eclipse/hawkbit-examples --labels=[os_virtualization]"
       ],
       "github": [
-        "https://github.com/eclipse/hawkbit",
-        "https://github.com/eclipse/hawkbit-extensions",
-        "https://github.com/eclipse/hawkbit-examples"
+        "https://github.com/eclipse/hawkbit --labels=[os_virtualization]",
+        "https://github.com/eclipse/hawkbit-extensions --labels=[os_virtualization]",
+        "https://github.com/eclipse/hawkbit-examples --labels=[os_virtualization]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.milo": {
       "git": [
-        "https://github.com/eclipse/milo"
+        "https://github.com/eclipse/milo --labels=[protocol]"
       ],
       "github": [
-        "https://github.com/eclipse/milo"
+        "https://github.com/eclipse/milo --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
@@ -354,523 +354,523 @@
     },
     "iot.hono": {
       "git": [
-        "https://github.com/eclipse/hono"
+        "https://github.com/eclipse/hono --labels=[platform]"
       ],
       "github": [
-        "https://github.com/eclipse/hono"
+        "https://github.com/eclipse/hono --labels=[platform]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.paho": {
       "git": [
-        "https://github.com/eclipse/paho.mqtt.c",
-        "https://github.com/eclipse/paho.mqtt.python",
-        "https://github.com/eclipse/paho.mqtt.javascript",
-        "https://github.com/eclipse/paho.mqtt.embedded-c",
-        "https://github.com/eclipse/paho.mqtt.java",
-        "https://github.com/eclipse/paho.mqtt.cpp",
-        "https://github.com/eclipse/paho.mqtt.golang",
-        "https://github.com/eclipse/paho.mqtt-sn.embedded-c",
-        "https://github.com/eclipse/paho.mqtt.m2mqtt",
-        "https://github.com/eclipse/paho.mqtt.testing",
-        "https://github.com/eclipse/paho.mqtt.android",
-        "https://github.com/eclipse/paho.mqtt.d",
-        "https://github.com/eclipse/paho.mqtt-spy",
-        "https://github.com/eclipse/paho.mqtt.ruby",
-        "https://github.com/eclipse/paho.mqtt.rust",
-        "http://git.eclipse.org/gitroot/paho/org.eclipse.paho.apps.git",
-        "http://git.eclipse.org/gitroot/paho/org.eclipse.paho.esf.git",
-        "http://git.eclipse.org/gitroot/paho/org.eclipse.paho.mqtt-sn.apps.git",
-        "http://git.eclipse.org/gitroot/paho/org.eclipse.paho.mqtt.lua.git",
-        "http://git.eclipse.org/gitroot/paho/org.eclipse.paho.mqtt.objc.git"
+        "https://github.com/eclipse/paho.mqtt.c --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.python --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.javascript --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.embedded-c --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.java --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.cpp --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.golang --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt-sn.embedded-c --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.m2mqtt --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.testing --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.android --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.d --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt-spy --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.ruby --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.rust --labels=[protocol]",
+        "http://git.eclipse.org/gitroot/paho/org.eclipse.paho.apps.git --labels=[protocol]",
+        "http://git.eclipse.org/gitroot/paho/org.eclipse.paho.esf.git --labels=[protocol]",
+        "http://git.eclipse.org/gitroot/paho/org.eclipse.paho.mqtt-sn.apps.git --labels=[protocol]",
+        "http://git.eclipse.org/gitroot/paho/org.eclipse.paho.mqtt.lua.git --labels=[protocol]",
+        "http://git.eclipse.org/gitroot/paho/org.eclipse.paho.mqtt.objc.git --labels=[protocol]"
       ],
       "github": [
-        "https://github.com/eclipse/paho.mqtt.c",
-        "https://github.com/eclipse/paho.mqtt.python",
-        "https://github.com/eclipse/paho.mqtt.javascript",
-        "https://github.com/eclipse/paho.mqtt.embedded-c",
-        "https://github.com/eclipse/paho.mqtt.java",
-        "https://github.com/eclipse/paho.mqtt.cpp",
-        "https://github.com/eclipse/paho.mqtt.golang",
-        "https://github.com/eclipse/paho.mqtt-sn.embedded-c",
-        "https://github.com/eclipse/paho.mqtt.m2mqtt",
-        "https://github.com/eclipse/paho.mqtt.testing",
-        "https://github.com/eclipse/paho.mqtt.android",
-        "https://github.com/eclipse/paho.mqtt.d",
-        "https://github.com/eclipse/paho.mqtt-spy",
-        "https://github.com/eclipse/paho.mqtt.ruby",
-        "https://github.com/eclipse/paho.mqtt.rust"
+        "https://github.com/eclipse/paho.mqtt.c --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.python --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.javascript --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.embedded-c --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.java --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.cpp --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.golang --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt-sn.embedded-c --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.m2mqtt --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.testing --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.android --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.d --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt-spy --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.ruby --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.rust --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.unide": {
       "git": [
-        "https://github.com/eclipse/unide",
-        "https://github.com/eclipse/unide.java",
-        "https://github.com/eclipse/unide.python"
+        "https://github.com/eclipse/unide --labels=[protocol]",
+        "https://github.com/eclipse/unide.java --labels=[protocol]",
+        "https://github.com/eclipse/unide.python --labels=[protocol]"
       ],
       "github": [
-        "https://github.com/eclipse/unide",
-        "https://github.com/eclipse/unide.java",
-        "https://github.com/eclipse/unide.python"
+        "https://github.com/eclipse/unide --labels=[protocol]",
+        "https://github.com/eclipse/unide.java --labels=[protocol]",
+        "https://github.com/eclipse/unide.python --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.mita": {
       "git": [
-        "https://github.com/eclipse/mita"
+        "https://github.com/eclipse/mita --labels=[application]"
       ],
       "github": [
-        "https://github.com/eclipse/mita"
+        "https://github.com/eclipse/mita --labels=[application]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.kuksa": {
       "git": [
-        "https://github.com/eclipse/kuksa.apps",
-        "https://github.com/eclipse/kuksa.cloud",
-        "https://github.com/eclipse/kuksa.ide",
-        "https://github.com/eclipse/kuksa.integration",
-        "https://github.com/eclipse/kuksa.invehicle",
-        "https://github.com/eclipse/kuksa.website",
-        "http://git.eclipse.org/gitroot/kuksa/kuksa.git",
-        "http://git.eclipse.org/gitroot/kuksa/www.git"
+        "https://github.com/eclipse/kuksa.apps --labels=[application]",
+        "https://github.com/eclipse/kuksa.cloud --labels=[application]",
+        "https://github.com/eclipse/kuksa.ide --labels=[application]",
+        "https://github.com/eclipse/kuksa.integration --labels=[application]",
+        "https://github.com/eclipse/kuksa.invehicle --labels=[application]",
+        "https://github.com/eclipse/kuksa.website --labels=[application]",
+        "http://git.eclipse.org/gitroot/kuksa/kuksa.git --labels=[application]",
+        "http://git.eclipse.org/gitroot/kuksa/www.git --labels=[application]"
       ],
       "github": [
-        "https://github.com/eclipse/kuksa.apps",
-        "https://github.com/eclipse/kuksa.cloud",
-        "https://github.com/eclipse/kuksa.ide",
-        "https://github.com/eclipse/kuksa.integration",
-        "https://github.com/eclipse/kuksa.invehicle",
-        "https://github.com/eclipse/kuksa.website"
+        "https://github.com/eclipse/kuksa.apps --labels=[application]",
+        "https://github.com/eclipse/kuksa.cloud --labels=[application]",
+        "https://github.com/eclipse/kuksa.ide --labels=[application]",
+        "https://github.com/eclipse/kuksa.integration --labels=[application]",
+        "https://github.com/eclipse/kuksa.invehicle --labels=[application]",
+        "https://github.com/eclipse/kuksa.website --labels=[application]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.iofog": {
       "git": [
-        "http://git.eclipse.org/gitroot/iofog/org.eclipse.iofog.git"
+        "http://git.eclipse.org/gitroot/iofog/org.eclipse.iofog.git --labels=[fog]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.tahu": {
       "git": [
-        "https://github.com/eclipse/tahu"
+        "https://github.com/eclipse/tahu --labels=[protocol]"
       ],
       "github": [
-        "https://github.com/eclipse/tahu"
+        "https://github.com/eclipse/tahu --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.4diac": {
       "git": [
-        "http://git.eclipse.org/gitroot/4diac/org.eclipse.4diac.examples.git",
-        "http://git.eclipse.org/gitroot/4diac/org.eclipse.4diac.forte.git",
-        "http://git.eclipse.org/gitroot/4diac/org.eclipse.4diac.ide.git"
+        "http://git.eclipse.org/gitroot/4diac/org.eclipse.4diac.examples.git --labels=[protocol]",
+        "http://git.eclipse.org/gitroot/4diac/org.eclipse.4diac.forte.git --labels=[protocol]",
+        "http://git.eclipse.org/gitroot/4diac/org.eclipse.4diac.ide.git --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.smarthome": {
       "git": [
-        "https://github.com/eclipse/smarthome",
-        "https://github.com/eclipse/smarthome.osgi-ri.enocean",
-        "https://github.com/eclipse/smarthome-packaging-sample",
-        "https://github.com/eclipse/smarthome-designer"
+        "https://github.com/eclipse/smarthome --labels=[platform]",
+        "https://github.com/eclipse/smarthome.osgi-ri.enocean --labels=[platform]",
+        "https://github.com/eclipse/smarthome-packaging-sample --labels=[platform]",
+        "https://github.com/eclipse/smarthome-designer --labels=[platform]"
       ],
       "github": [
-        "https://github.com/eclipse/smarthome",
-        "https://github.com/eclipse/smarthome.osgi-ri.enocean",
-        "https://github.com/eclipse/smarthome-packaging-sample",
-        "https://github.com/eclipse/smarthome-designer"
+        "https://github.com/eclipse/smarthome --labels=[platform]",
+        "https://github.com/eclipse/smarthome.osgi-ri.enocean --labels=[platform]",
+        "https://github.com/eclipse/smarthome-packaging-sample --labels=[platform]",
+        "https://github.com/eclipse/smarthome-designer --labels=[platform]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.volttron": {
       "git": [
-        "https://github.com/VOLTTRON/volttron",
-        "https://github.com/VOLTTRON/volttron-applications",
-        "https://github.com/VOLTTRON/volttron-fuel-cells",
-        "https://github.com/VOLTTRON/volttron-docker"
+        "https://github.com/VOLTTRON/volttron --labels=[platform]",
+        "https://github.com/VOLTTRON/volttron-application --labels=[platform]",
+        "https://github.com/VOLTTRON/volttron-fuel-cells --labels=[platform]",
+        "https://github.com/VOLTTRON/volttron-docker --labels=[platform]"
       ],
       "github": [
-        "https://github.com/VOLTTRON/volttron",
-        "https://github.com/VOLTTRON/volttron-applications",
-        "https://github.com/VOLTTRON/volttron-fuel-cells",
-        "https://github.com/VOLTTRON/volttron-docker"
+        "https://github.com/VOLTTRON/volttron --labels=[platform]",
+        "https://github.com/VOLTTRON/volttron-application --labels=[platform]",
+        "https://github.com/VOLTTRON/volttron-fuel-cells --labels=[platform]",
+        "https://github.com/VOLTTRON/volttron-docker --labels=[platform]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "Iotivity": {
       "git": [
-        "https://github.com/iotivity/iotivity",
-        "https://github.com/iotivity/iotivity-lite",
-        "https://github.com/iotivity/ci-management",
-        "https://github.com/iotivity/iotivity-constrained",
-        "https://github.com/iotivity/iotivity-upnp-bridge",
-        "https://github.com/iotivity/iotivity-alljoyn-bridge",
-        "https://github.com/iotivity/iotivity-voice",
-        "https://github.com/iotivity/iotivity-xmpp",
-        "https://github.com/iotivity/iotivity-node",
-        "https://github.com/iotivity/iotivity-contrib"
+        "https://github.com/iotivity/iotivity --labels=[framework]",
+        "https://github.com/iotivity/iotivity-lite --labels=[framework]",
+        "https://github.com/iotivity/ci-management --labels=[framework]",
+        "https://github.com/iotivity/iotivity-constrained --labels=[framework]",
+        "https://github.com/iotivity/iotivity-upnp-bridge --labels=[framework]",
+        "https://github.com/iotivity/iotivity-alljoyn-bridge --labels=[framework]",
+        "https://github.com/iotivity/iotivity-voice --labels=[framework]",
+        "https://github.com/iotivity/iotivity-xmpp --labels=[framework]",
+        "https://github.com/iotivity/iotivity-node --labels=[framework]",
+        "https://github.com/iotivity/iotivity-contrib --labels=[framework]"
       ],
       "github": [
-        "https://github.com/iotivity/iotivity",
-        "https://github.com/iotivity/iotivity-lite",
-        "https://github.com/iotivity/ci-management",
-        "https://github.com/iotivity/iotivity-constrained",
-        "https://github.com/iotivity/iotivity-upnp-bridge",
-        "https://github.com/iotivity/iotivity-alljoyn-bridge",
-        "https://github.com/iotivity/iotivity-voice",
-        "https://github.com/iotivity/iotivity-xmpp",
-        "https://github.com/iotivity/iotivity-node",
-        "https://github.com/iotivity/iotivity-contrib"
+        "https://github.com/iotivity/iotivity --labels=[framework]",
+        "https://github.com/iotivity/iotivity-lite --labels=[framework]",
+        "https://github.com/iotivity/ci-management --labels=[framework]",
+        "https://github.com/iotivity/iotivity-constrained --labels=[framework]",
+        "https://github.com/iotivity/iotivity-upnp-bridge --labels=[framework]",
+        "https://github.com/iotivity/iotivity-alljoyn-bridge --labels=[framework]",
+        "https://github.com/iotivity/iotivity-voice --labels=[framework]",
+        "https://github.com/iotivity/iotivity-xmpp --labels=[framework]",
+        "https://github.com/iotivity/iotivity-node --labels=[framework]",
+        "https://github.com/iotivity/iotivity-contrib --labels=[framework]"
       ],
       "meta": { "title" : "Linux" }
     },
     "EdgeX Foundry": {
       "git": [
-        "https://github.com/edgexfoundry/device-grove-c",
-        "https://github.com/edgexfoundry/device-sdk-c",
-        "https://github.com/edgexfoundry/device-sdk-go",
-        "https://github.com/edgexfoundry/edgex-go",
-        "https://github.com/edgexfoundry/device-bacnet-c",
-        "https://github.com/edgexfoundry/edgex-taf",
-        "https://github.com/edgexfoundry/demo-grove-pi",
-        "https://github.com/edgexfoundry/edgex-ui-go",
-        "https://github.com/edgexfoundry/edgex-global-pipelines",
-        "https://github.com/edgexfoundry/docker-edgex-consul",
-        "https://github.com/edgexfoundry/docker-edgex-volume",
-        "https://github.com/edgexfoundry/device-snmp-go",
-        "https://github.com/edgexfoundry/device-modbus-go",
-        "https://github.com/edgexfoundry/device-virtual-go",
-        "https://github.com/edgexfoundry/device-random",
-        "https://github.com/edgexfoundry/device-mqtt-go",
-        "https://github.com/edgexfoundry/ci-management",
-        "https://github.com/edgexfoundry/go-mod-core-contracts",
-        "https://github.com/edgexfoundry/docker-edgex-mongo",
-        "https://github.com/edgexfoundry/edgex-docs",
-        "https://github.com/edgexfoundry/developer-scripts",
-        "https://github.com/edgexfoundry/edgex-ui-clojure",
-        "https://github.com/edgexfoundry/blackbox-testing",
-        "https://github.com/edgexfoundry/app-functions-sdk-go",
-        "https://github.com/edgexfoundry/app-service-configurable",
-        "https://github.com/edgexfoundry/device-camera-go",
-        "https://github.com/edgexfoundry/support-rulesengine",
-        "https://github.com/edgexfoundry/go-mod-secrets",
-        "https://github.com/edgexfoundry/ci-build-images",
-        "https://github.com/edgexfoundry/edgex-taf-common",
-        "https://github.com/edgexfoundry/sample-service",
-        "https://github.com/edgexfoundry/go-mod-registry",
-        "https://github.com/edgexfoundry/performance-test",
-        "https://github.com/edgexfoundry/security-api-gateway",
-        "https://github.com/edgexfoundry/security-secret-store",
-        "https://github.com/edgexfoundry/go-mod-messaging",
-        "https://github.com/edgexfoundry/git-semver"
+        "https://github.com/edgexfoundry/device-grove-c --labels=[framework]",
+        "https://github.com/edgexfoundry/device-sdk-c --labels=[framework]",
+        "https://github.com/edgexfoundry/device-sdk-go --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-go --labels=[framework]",
+        "https://github.com/edgexfoundry/device-bacnet-c --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-taf --labels=[framework]",
+        "https://github.com/edgexfoundry/demo-grove-pi --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-ui-go --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-global-pipelines --labels=[framework]",
+        "https://github.com/edgexfoundry/docker-edgex-consul --labels=[framework]",
+        "https://github.com/edgexfoundry/docker-edgex-volume --labels=[framework]",
+        "https://github.com/edgexfoundry/device-snmp-go --labels=[framework]",
+        "https://github.com/edgexfoundry/device-modbus-go --labels=[framework]",
+        "https://github.com/edgexfoundry/device-virtual-go --labels=[framework]",
+        "https://github.com/edgexfoundry/device-random --labels=[framework]",
+        "https://github.com/edgexfoundry/device-mqtt-go --labels=[framework]",
+        "https://github.com/edgexfoundry/ci-management --labels=[framework]",
+        "https://github.com/edgexfoundry/go-mod-core-contracts --labels=[framework]",
+        "https://github.com/edgexfoundry/docker-edgex-mongo --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-docs --labels=[framework]",
+        "https://github.com/edgexfoundry/developer-scripts --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-ui-clojure --labels=[framework]",
+        "https://github.com/edgexfoundry/blackbox-testing --labels=[framework]",
+        "https://github.com/edgexfoundry/app-functions-sdk-go --labels=[framework]",
+        "https://github.com/edgexfoundry/app-service-configurable --labels=[framework]",
+        "https://github.com/edgexfoundry/device-camera-go --labels=[framework]",
+        "https://github.com/edgexfoundry/support-rulesengine --labels=[framework]",
+        "https://github.com/edgexfoundry/go-mod-secrets --labels=[framework]",
+        "https://github.com/edgexfoundry/ci-build-images --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-taf-common --labels=[framework]",
+        "https://github.com/edgexfoundry/sample-service --labels=[framework]",
+        "https://github.com/edgexfoundry/go-mod-registry --labels=[framework]",
+        "https://github.com/edgexfoundry/performance-test --labels=[framework]",
+        "https://github.com/edgexfoundry/security-api-gateway --labels=[framework]",
+        "https://github.com/edgexfoundry/security-secret-store --labels=[framework]",
+        "https://github.com/edgexfoundry/go-mod-messaging --labels=[framework]",
+        "https://github.com/edgexfoundry/git-semver --labels=[framework]"
       ],
       "github": [
-        "https://github.com/edgexfoundry/device-grove-c",
-        "https://github.com/edgexfoundry/device-sdk-c",
-        "https://github.com/edgexfoundry/device-sdk-go",
-        "https://github.com/edgexfoundry/edgex-go",
-        "https://github.com/edgexfoundry/device-bacnet-c",
-        "https://github.com/edgexfoundry/edgex-taf",
-        "https://github.com/edgexfoundry/demo-grove-pi",
-        "https://github.com/edgexfoundry/edgex-ui-go",
-        "https://github.com/edgexfoundry/edgex-global-pipelines",
-        "https://github.com/edgexfoundry/docker-edgex-consul",
-        "https://github.com/edgexfoundry/docker-edgex-volume",
-        "https://github.com/edgexfoundry/device-snmp-go",
-        "https://github.com/edgexfoundry/device-modbus-go",
-        "https://github.com/edgexfoundry/device-virtual-go",
-        "https://github.com/edgexfoundry/device-random",
-        "https://github.com/edgexfoundry/device-mqtt-go",
-        "https://github.com/edgexfoundry/ci-management",
-        "https://github.com/edgexfoundry/go-mod-core-contracts",
-        "https://github.com/edgexfoundry/docker-edgex-mongo",
-        "https://github.com/edgexfoundry/edgex-docs",
-        "https://github.com/edgexfoundry/developer-scripts",
-        "https://github.com/edgexfoundry/edgex-ui-clojure",
-        "https://github.com/edgexfoundry/blackbox-testing",
-        "https://github.com/edgexfoundry/app-functions-sdk-go",
-        "https://github.com/edgexfoundry/app-service-configurable",
-        "https://github.com/edgexfoundry/device-camera-go",
-        "https://github.com/edgexfoundry/support-rulesengine",
-        "https://github.com/edgexfoundry/go-mod-secrets",
-        "https://github.com/edgexfoundry/ci-build-images",
-        "https://github.com/edgexfoundry/edgex-taf-common",
-        "https://github.com/edgexfoundry/sample-service",
-        "https://github.com/edgexfoundry/go-mod-registry",
-        "https://github.com/edgexfoundry/performance-test",
-        "https://github.com/edgexfoundry/security-api-gateway",
-        "https://github.com/edgexfoundry/security-secret-store",
-        "https://github.com/edgexfoundry/go-mod-messaging",
-        "https://github.com/edgexfoundry/git-semver"
+        "https://github.com/edgexfoundry/device-grove-c --labels=[framework]",
+        "https://github.com/edgexfoundry/device-sdk-c --labels=[framework]",
+        "https://github.com/edgexfoundry/device-sdk-go --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-go --labels=[framework]",
+        "https://github.com/edgexfoundry/device-bacnet-c --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-taf --labels=[framework]",
+        "https://github.com/edgexfoundry/demo-grove-pi --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-ui-go --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-global-pipelines --labels=[framework]",
+        "https://github.com/edgexfoundry/docker-edgex-consul --labels=[framework]",
+        "https://github.com/edgexfoundry/docker-edgex-volume --labels=[framework]",
+        "https://github.com/edgexfoundry/device-snmp-go --labels=[framework]",
+        "https://github.com/edgexfoundry/device-modbus-go --labels=[framework]",
+        "https://github.com/edgexfoundry/device-virtual-go --labels=[framework]",
+        "https://github.com/edgexfoundry/device-random --labels=[framework]",
+        "https://github.com/edgexfoundry/device-mqtt-go --labels=[framework]",
+        "https://github.com/edgexfoundry/ci-management --labels=[framework]",
+        "https://github.com/edgexfoundry/go-mod-core-contracts --labels=[framework]",
+        "https://github.com/edgexfoundry/docker-edgex-mongo --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-docs --labels=[framework]",
+        "https://github.com/edgexfoundry/developer-scripts --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-ui-clojure --labels=[framework]",
+        "https://github.com/edgexfoundry/blackbox-testing --labels=[framework]",
+        "https://github.com/edgexfoundry/app-functions-sdk-go --labels=[framework]",
+        "https://github.com/edgexfoundry/app-service-configurable --labels=[framework]",
+        "https://github.com/edgexfoundry/device-camera-go --labels=[framework]",
+        "https://github.com/edgexfoundry/support-rulesengine --labels=[framework]",
+        "https://github.com/edgexfoundry/go-mod-secrets --labels=[framework]",
+        "https://github.com/edgexfoundry/ci-build-images --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-taf-common --labels=[framework]",
+        "https://github.com/edgexfoundry/sample-service --labels=[framework]",
+        "https://github.com/edgexfoundry/go-mod-registry --labels=[framework]",
+        "https://github.com/edgexfoundry/performance-test --labels=[framework]",
+        "https://github.com/edgexfoundry/security-api-gateway --labels=[framework]",
+        "https://github.com/edgexfoundry/security-secret-store --labels=[framework]",
+        "https://github.com/edgexfoundry/go-mod-messaging --labels=[framework]",
+        "https://github.com/edgexfoundry/git-semver --labels=[framework]"
       ],
       "meta": { "title" : "Linux" }
     },
     "Dronecode": {
       "git": [
-        "https://github.com/Dronecode/camera-manager",
-        "https://github.com/Dronecode/camera-manager-docs",
-        "https://github.com/Dronecode/Technical-Steering-Committee",
-        "https://github.com/Dronecode/plugin-mathjax",
-        "https://github.com/Dronecode/Events",
-        "https://github.com/Dronecode/testing-zenhub",
-        "https://github.com/Dronecode/gitbook-plugin-bulk-redirect",
-        "https://github.com/Dronecode/gitbook-plugin-richquotes",
-        "https://github.com/Dronecode/gitdm",
-        "https://github.com/Dronecode/theme-dronecode",
-        "https://github.com/Dronecode/dronecode-wordpress-theme",
-        "https://github.com/Dronecode/UX-Design",
-        "https://github.com/Dronecode/gitbook-plugin-versions-select",
-        "https://github.com/Dronecode/Dronecode-Website-Issues",
-        "https://github.com/Dronecode/Dronecode-util",
-        "https://github.com/Dronecode/Vagrant"
+        "https://github.com/Dronecode/camera-manager --labels=[ecosystem]",
+        "https://github.com/Dronecode/camera-manager-docs --labels=[ecosystem]",
+        "https://github.com/Dronecode/Technical-Steering-Committee --labels=[ecosystem]",
+        "https://github.com/Dronecode/plugin-mathjax --labels=[ecosystem]",
+        "https://github.com/Dronecode/Events --labels=[ecosystem]",
+        "https://github.com/Dronecode/testing-zenhub --labels=[ecosystem]",
+        "https://github.com/Dronecode/gitbook-plugin-bulk-redirect --labels=[ecosystem]",
+        "https://github.com/Dronecode/gitbook-plugin-richquotes --labels=[ecosystem]",
+        "https://github.com/Dronecode/gitdm --labels=[ecosystem]",
+        "https://github.com/Dronecode/theme-dronecode --labels=[ecosystem]",
+        "https://github.com/Dronecode/dronecode-wordpress-theme --labels=[ecosystem]",
+        "https://github.com/Dronecode/UX-Design --labels=[ecosystem]",
+        "https://github.com/Dronecode/gitbook-plugin-versions-select --labels=[ecosystem]",
+        "https://github.com/Dronecode/Dronecode-Website-Issues --labels=[ecosystem]",
+        "https://github.com/Dronecode/Dronecode-util --labels=[ecosystem]",
+        "https://github.com/Dronecode/Vagrant --labels=[ecosystem]"
       ],
       "github": [
-        "https://github.com/Dronecode/camera-manager",
-        "https://github.com/Dronecode/camera-manager-docs",
-        "https://github.com/Dronecode/Technical-Steering-Committee",
-        "https://github.com/Dronecode/plugin-mathjax",
-        "https://github.com/Dronecode/Events",
-        "https://github.com/Dronecode/testing-zenhub",
-        "https://github.com/Dronecode/gitbook-plugin-bulk-redirect",
-        "https://github.com/Dronecode/gitbook-plugin-richquotes",
-        "https://github.com/Dronecode/gitdm",
-        "https://github.com/Dronecode/theme-dronecode",
-        "https://github.com/Dronecode/dronecode-wordpress-theme",
-        "https://github.com/Dronecode/UX-Design",
-        "https://github.com/Dronecode/gitbook-plugin-versions-select",
-        "https://github.com/Dronecode/Dronecode-Website-Issues",
-        "https://github.com/Dronecode/Dronecode-util",
-        "https://github.com/Dronecode/Vagrant"
+        "https://github.com/Dronecode/camera-manager --labels=[ecosystem]",
+        "https://github.com/Dronecode/camera-manager-docs --labels=[ecosystem]",
+        "https://github.com/Dronecode/Technical-Steering-Committee --labels=[ecosystem]",
+        "https://github.com/Dronecode/plugin-mathjax --labels=[ecosystem]",
+        "https://github.com/Dronecode/Events --labels=[ecosystem]",
+        "https://github.com/Dronecode/testing-zenhub --labels=[ecosystem]",
+        "https://github.com/Dronecode/gitbook-plugin-bulk-redirect --labels=[ecosystem]",
+        "https://github.com/Dronecode/gitbook-plugin-richquotes --labels=[ecosystem]",
+        "https://github.com/Dronecode/gitdm --labels=[ecosystem]",
+        "https://github.com/Dronecode/theme-dronecode --labels=[ecosystem]",
+        "https://github.com/Dronecode/dronecode-wordpress-theme --labels=[ecosystem]",
+        "https://github.com/Dronecode/UX-Design --labels=[ecosystem]",
+        "https://github.com/Dronecode/gitbook-plugin-versions-select --labels=[ecosystem]",
+        "https://github.com/Dronecode/Dronecode-Website-Issues --labels=[ecosystem]",
+        "https://github.com/Dronecode/Dronecode-util --labels=[ecosystem]",
+        "https://github.com/Dronecode/Vagrant --labels=[ecosystem]"
       ],
       "meta": { "title" : "Linux" }
     },
     "Zephyr": {
       "git": [
-        "https://github.com/zephyrproject-rtos/zephyr"
+        "https://github.com/zephyrproject-rtos/zephyr --labels=[os_virtualization]"
       ],
       "github": [
-        "https://github.com/zephyrproject-rtos/zephyr"
+        "https://github.com/zephyrproject-rtos/zephyr --labels=[os_virtualization]"
       ],
       "meta": { "title" : "Linux" }
     },
     "Akraino": {
       "git": [
-        "https://github.com/akraino-edge-stack/iec",
-        "https://github.com/akraino-edge-stack/ta-build-tools",
-        "https://github.com/akraino-edge-stack/ta-caas-kubernetes",
-        "https://github.com/akraino-edge-stack/kni-blueprint-pae",
-        "https://github.com/akraino-edge-stack/ci-management",
-        "https://github.com/akraino-edge-stack/icn-daaas",
-        "https://github.com/akraino-edge-stack/kni-installer",
-        "https://github.com/akraino-edge-stack/ta-caas-install",
-        "https://github.com/akraino-edge-stack/ta-caas-danm",
-        "https://github.com/akraino-edge-stack/icn",
-        "https://github.com/akraino-edge-stack/regional_controller-api-server",
-        "https://github.com/akraino-edge-stack/ta-cloudtaf",
-        "https://github.com/akraino-edge-stack/ta-ipa-deployer",
-        "https://github.com/akraino-edge-stack/ta-manifest",
-        "https://github.com/akraino-edge-stack/ta-infra-ansible",
-        "https://github.com/akraino-edge-stack/ta-cm-plugins",
-        "https://github.com/akraino-edge-stack/umec",
-        "https://github.com/akraino-edge-stack/yaml_builds",
-        "https://github.com/akraino-edge-stack/eliot",
-        "https://github.com/akraino-edge-stack/ta-caas-cpupooler",
-        "https://github.com/akraino-edge-stack/redfish",
-        "https://github.com/akraino-edge-stack/airshipinabottle_deploy",
-        "https://github.com/akraino-edge-stack/validation",
-        "https://github.com/akraino-edge-stack/nc-ovs-dpdk-unicycle",
-        "https://github.com/akraino-edge-stack/nc-seba",
-        "https://github.com/akraino-edge-stack/ta-caas-registry",
-        "https://github.com/akraino-edge-stack/ta-caas-logging",
-        "https://github.com/akraino-edge-stack/ta-caas-helm",
-        "https://github.com/akraino-edge-stack/ta-caas-etcd",
-        "https://github.com/akraino-edge-stack/ta-caas-metrics",
-        "https://github.com/akraino-edge-stack/ta-caas-kubedns",
-        "https://github.com/akraino-edge-stack/regional_controller",
-        "https://github.com/akraino-edge-stack/ta-caas-security",
-        "https://github.com/akraino-edge-stack/nc-tf",
-        "https://github.com/akraino-edge-stack/ta-config-manager",
-        "https://github.com/akraino-edge-stack/ta-os-net-config",
-        "https://github.com/akraino-edge-stack/ta-image-provision",
-        "https://github.com/akraino-edge-stack/rec",
-        "https://github.com/akraino-edge-stack/portal_user_interface-portal-onapsdk",
-        "https://github.com/akraino-edge-stack/ta-rpmbuilder",
-        "https://github.com/akraino-edge-stack/ta-caas-lcm",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible-galera_server",
-        "https://github.com/akraino-edge-stack/ta-remote-installer",
-        "https://github.com/akraino-edge-stack/mec-api-framework",
-        "https://github.com/akraino-edge-stack/connected-vehicle",
-        "https://github.com/akraino-edge-stack/ta-hw-detector",
-        "https://github.com/akraino-edge-stack/iec-xconnect",
-        "https://github.com/akraino-edge-stack/test_automation",
-        "https://github.com/akraino-edge-stack/tc",
-        "https://github.com/akraino-edge-stack/ta-yarf",
-        "https://github.com/akraino-edge-stack/ta-storage",
-        "https://github.com/akraino-edge-stack/ta-start-menu",
-        "https://github.com/akraino-edge-stack/ta-python-peewee",
-        "https://github.com/akraino-edge-stack/ta-python-ilorest-library",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible-rsyslog_client",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible-rabbitmq_server",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible-plugins",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible-os_keystone",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible-os_ironic",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible-openstack_openrc",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible-memcached_server",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible-haproxy_server",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible-galera_client",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible",
-        "https://github.com/akraino-edge-stack/ta-monitoring",
-        "https://github.com/akraino-edge-stack/ta-ironic-virtmedia-driver",
-        "https://github.com/akraino-edge-stack/ta-lockcli",
-        "https://github.com/akraino-edge-stack/ta-ironicclient",
-        "https://github.com/akraino-edge-stack/ta-ironic",
-        "https://github.com/akraino-edge-stack/ta-hostcli",
-        "https://github.com/akraino-edge-stack/ta-distributed-state-server",
-        "https://github.com/akraino-edge-stack/ta-access-management",
-        "https://github.com/akraino-edge-stack/ta-ansible-role-ntp",
-        "https://github.com/akraino-edge-stack/sample_vnf",
-        "https://github.com/akraino-edge-stack/remote-server-os-bootstrap",
-        "https://github.com/akraino-edge-stack/repo-beta",
-        "https://github.com/akraino-edge-stack/postgres_db_schema",
-        "https://github.com/akraino-edge-stack/portal_user_interface",
-        "https://github.com/akraino-edge-stack/portal",
-        "https://github.com/akraino-edge-stack/ovs-dpdk-airship",
-        "https://github.com/akraino-edge-stack/nc-unicycle",
-        "https://github.com/akraino-edge-stack/nc-rover",
-        "https://github.com/akraino-edge-stack/camunda_workflow",
-        "https://github.com/akraino-edge-stack/addon-onap",
-        "https://github.com/akraino-edge-stack/kni-templates",
-        "https://github.com/akraino-edge-stack/starlingx",
-        "https://github.com/akraino-edge-stack/kni-blueprint-ie",
+        "https://github.com/akraino-edge-stack/iec --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-build-tools --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-kubernetes --labels=[application]",
+        "https://github.com/akraino-edge-stack/kni-blueprint-pae --labels=[application]",
+        "https://github.com/akraino-edge-stack/ci-management --labels=[application]",
+        "https://github.com/akraino-edge-stack/icn-daaas --labels=[application]",
+        "https://github.com/akraino-edge-stack/kni-installer --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-install --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-danm --labels=[application]",
+        "https://github.com/akraino-edge-stack/icn --labels=[application]",
+        "https://github.com/akraino-edge-stack/regional_controller-api-server --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-cloudtaf --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-ipa-deployer --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-manifest --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-infra-ansible --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-cm-plugins --labels=[application]",
+        "https://github.com/akraino-edge-stack/umec --labels=[application]",
+        "https://github.com/akraino-edge-stack/yaml_builds --labels=[application]",
+        "https://github.com/akraino-edge-stack/eliot --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-cpupooler --labels=[application]",
+        "https://github.com/akraino-edge-stack/redfish --labels=[application]",
+        "https://github.com/akraino-edge-stack/airshipinabottle_deploy --labels=[application]",
+        "https://github.com/akraino-edge-stack/validation --labels=[application]",
+        "https://github.com/akraino-edge-stack/nc-ovs-dpdk-unicycle --labels=[application]",
+        "https://github.com/akraino-edge-stack/nc-seba --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-registry --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-logging --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-helm --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-etcd --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-metrics --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-kubedns --labels=[application]",
+        "https://github.com/akraino-edge-stack/regional_controller --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-security --labels=[application]",
+        "https://github.com/akraino-edge-stack/nc-tf --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-config-manager --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-os-net-config --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-image-provision --labels=[application]",
+        "https://github.com/akraino-edge-stack/rec --labels=[application]",
+        "https://github.com/akraino-edge-stack/portal_user_interface-portal-onapsdk --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-rpmbuilder --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-lcm --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-galera_server --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-remote-installer --labels=[application]",
+        "https://github.com/akraino-edge-stack/mec-api-framework --labels=[application]",
+        "https://github.com/akraino-edge-stack/connected-vehicle --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-hw-detector --labels=[application]",
+        "https://github.com/akraino-edge-stack/iec-xconnect --labels=[application]",
+        "https://github.com/akraino-edge-stack/test_automation --labels=[application]",
+        "https://github.com/akraino-edge-stack/tc --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-yarf --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-storage --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-start-menu --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-python-peewee --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-python-ilorest-library --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-rsyslog_client --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-rabbitmq_server --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-plugins --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-os_keystone --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-os_ironic --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-openstack_openrc --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-memcached_server --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-haproxy_server --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-galera_client --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-monitoring --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-ironic-virtmedia-driver --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-lockcli --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-ironicclient --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-ironic --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-hostcli --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-distributed-state-server --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-access-management --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-ansible-role-ntp --labels=[application]",
+        "https://github.com/akraino-edge-stack/sample_vnf --labels=[application]",
+        "https://github.com/akraino-edge-stack/remote-server-os-bootstrap --labels=[application]",
+        "https://github.com/akraino-edge-stack/repo-beta --labels=[application]",
+        "https://github.com/akraino-edge-stack/postgres_db_schema --labels=[application]",
+        "https://github.com/akraino-edge-stack/portal_user_interface --labels=[application]",
+        "https://github.com/akraino-edge-stack/portal --labels=[application]",
+        "https://github.com/akraino-edge-stack/ovs-dpdk-airship --labels=[application]",
+        "https://github.com/akraino-edge-stack/nc-unicycle --labels=[application]",
+        "https://github.com/akraino-edge-stack/nc-rover --labels=[application]",
+        "https://github.com/akraino-edge-stack/camunda_workflow --labels=[application]",
+        "https://github.com/akraino-edge-stack/addon-onap --labels=[application]",
+        "https://github.com/akraino-edge-stack/kni-templates --labels=[application]",
+        "https://github.com/akraino-edge-stack/starlingx --labels=[application]",
+        "https://github.com/akraino-edge-stack/kni-blueprint-ie --labels=[application]",
         "https://github.com/akraino-edge-stack/serverless"
       ],
       "github": [
-        "https://github.com/akraino-edge-stack/iec",
-        "https://github.com/akraino-edge-stack/ta-build-tools",
-        "https://github.com/akraino-edge-stack/ta-caas-kubernetes",
-        "https://github.com/akraino-edge-stack/kni-blueprint-pae",
-        "https://github.com/akraino-edge-stack/ci-management",
-        "https://github.com/akraino-edge-stack/icn-daaas",
-        "https://github.com/akraino-edge-stack/kni-installer",
-        "https://github.com/akraino-edge-stack/ta-caas-install",
-        "https://github.com/akraino-edge-stack/ta-caas-danm",
-        "https://github.com/akraino-edge-stack/icn",
-        "https://github.com/akraino-edge-stack/regional_controller-api-server",
-        "https://github.com/akraino-edge-stack/ta-cloudtaf",
-        "https://github.com/akraino-edge-stack/ta-ipa-deployer",
-        "https://github.com/akraino-edge-stack/ta-manifest",
-        "https://github.com/akraino-edge-stack/ta-infra-ansible",
-        "https://github.com/akraino-edge-stack/ta-cm-plugins",
-        "https://github.com/akraino-edge-stack/umec",
-        "https://github.com/akraino-edge-stack/yaml_builds",
-        "https://github.com/akraino-edge-stack/eliot",
-        "https://github.com/akraino-edge-stack/ta-caas-cpupooler",
-        "https://github.com/akraino-edge-stack/redfish",
-        "https://github.com/akraino-edge-stack/airshipinabottle_deploy",
-        "https://github.com/akraino-edge-stack/validation",
-        "https://github.com/akraino-edge-stack/nc-ovs-dpdk-unicycle",
-        "https://github.com/akraino-edge-stack/nc-seba",
-        "https://github.com/akraino-edge-stack/ta-caas-registry",
-        "https://github.com/akraino-edge-stack/ta-caas-logging",
-        "https://github.com/akraino-edge-stack/ta-caas-helm",
-        "https://github.com/akraino-edge-stack/ta-caas-etcd",
-        "https://github.com/akraino-edge-stack/ta-caas-metrics",
-        "https://github.com/akraino-edge-stack/ta-caas-kubedns",
-        "https://github.com/akraino-edge-stack/regional_controller",
-        "https://github.com/akraino-edge-stack/ta-caas-security",
-        "https://github.com/akraino-edge-stack/nc-tf",
-        "https://github.com/akraino-edge-stack/ta-config-manager",
-        "https://github.com/akraino-edge-stack/ta-os-net-config",
-        "https://github.com/akraino-edge-stack/ta-image-provision",
-        "https://github.com/akraino-edge-stack/rec",
-        "https://github.com/akraino-edge-stack/portal_user_interface-portal-onapsdk",
-        "https://github.com/akraino-edge-stack/ta-rpmbuilder",
-        "https://github.com/akraino-edge-stack/ta-caas-lcm",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible-galera_server",
-        "https://github.com/akraino-edge-stack/ta-remote-installer",
-        "https://github.com/akraino-edge-stack/mec-api-framework",
-        "https://github.com/akraino-edge-stack/connected-vehicle",
-        "https://github.com/akraino-edge-stack/ta-hw-detector",
-        "https://github.com/akraino-edge-stack/iec-xconnect",
-        "https://github.com/akraino-edge-stack/test_automation",
-        "https://github.com/akraino-edge-stack/tc",
-        "https://github.com/akraino-edge-stack/ta-yarf",
-        "https://github.com/akraino-edge-stack/ta-storage",
-        "https://github.com/akraino-edge-stack/ta-start-menu",
-        "https://github.com/akraino-edge-stack/ta-python-peewee",
-        "https://github.com/akraino-edge-stack/ta-python-ilorest-library",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible-rsyslog_client",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible-rabbitmq_server",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible-plugins",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible-os_keystone",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible-os_ironic",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible-openstack_openrc",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible-memcached_server",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible-haproxy_server",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible-galera_client",
-        "https://github.com/akraino-edge-stack/ta-openstack-ansible",
-        "https://github.com/akraino-edge-stack/ta-monitoring",
-        "https://github.com/akraino-edge-stack/ta-ironic-virtmedia-driver",
-        "https://github.com/akraino-edge-stack/ta-lockcli",
-        "https://github.com/akraino-edge-stack/ta-ironicclient",
-        "https://github.com/akraino-edge-stack/ta-ironic",
-        "https://github.com/akraino-edge-stack/ta-hostcli",
-        "https://github.com/akraino-edge-stack/ta-distributed-state-server",
-        "https://github.com/akraino-edge-stack/ta-access-management",
-        "https://github.com/akraino-edge-stack/ta-ansible-role-ntp",
-        "https://github.com/akraino-edge-stack/sample_vnf",
-        "https://github.com/akraino-edge-stack/remote-server-os-bootstrap",
-        "https://github.com/akraino-edge-stack/repo-beta",
-        "https://github.com/akraino-edge-stack/postgres_db_schema",
-        "https://github.com/akraino-edge-stack/portal_user_interface",
-        "https://github.com/akraino-edge-stack/portal",
-        "https://github.com/akraino-edge-stack/ovs-dpdk-airship",
-        "https://github.com/akraino-edge-stack/nc-unicycle",
-        "https://github.com/akraino-edge-stack/nc-rover",
-        "https://github.com/akraino-edge-stack/camunda_workflow",
-        "https://github.com/akraino-edge-stack/addon-onap",
-        "https://github.com/akraino-edge-stack/kni-templates",
-        "https://github.com/akraino-edge-stack/starlingx",
-        "https://github.com/akraino-edge-stack/kni-blueprint-ie",
+        "https://github.com/akraino-edge-stack/iec --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-build-tools --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-kubernetes --labels=[application]",
+        "https://github.com/akraino-edge-stack/kni-blueprint-pae --labels=[application]",
+        "https://github.com/akraino-edge-stack/ci-management --labels=[application]",
+        "https://github.com/akraino-edge-stack/icn-daaas --labels=[application]",
+        "https://github.com/akraino-edge-stack/kni-installer --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-install --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-danm --labels=[application]",
+        "https://github.com/akraino-edge-stack/icn --labels=[application]",
+        "https://github.com/akraino-edge-stack/regional_controller-api-server --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-cloudtaf --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-ipa-deployer --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-manifest --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-infra-ansible --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-cm-plugins --labels=[application]",
+        "https://github.com/akraino-edge-stack/umec --labels=[application]",
+        "https://github.com/akraino-edge-stack/yaml_builds --labels=[application]",
+        "https://github.com/akraino-edge-stack/eliot --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-cpupooler --labels=[application]",
+        "https://github.com/akraino-edge-stack/redfish --labels=[application]",
+        "https://github.com/akraino-edge-stack/airshipinabottle_deploy --labels=[application]",
+        "https://github.com/akraino-edge-stack/validation --labels=[application]",
+        "https://github.com/akraino-edge-stack/nc-ovs-dpdk-unicycle --labels=[application]",
+        "https://github.com/akraino-edge-stack/nc-seba --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-registry --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-logging --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-helm --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-etcd --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-metrics --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-kubedns --labels=[application]",
+        "https://github.com/akraino-edge-stack/regional_controller --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-security --labels=[application]",
+        "https://github.com/akraino-edge-stack/nc-tf --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-config-manager --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-os-net-config --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-image-provision --labels=[application]",
+        "https://github.com/akraino-edge-stack/rec --labels=[application]",
+        "https://github.com/akraino-edge-stack/portal_user_interface-portal-onapsdk --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-rpmbuilder --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-lcm --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-galera_server --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-remote-installer --labels=[application]",
+        "https://github.com/akraino-edge-stack/mec-api-framework --labels=[application]",
+        "https://github.com/akraino-edge-stack/connected-vehicle --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-hw-detector --labels=[application]",
+        "https://github.com/akraino-edge-stack/iec-xconnect --labels=[application]",
+        "https://github.com/akraino-edge-stack/test_automation --labels=[application]",
+        "https://github.com/akraino-edge-stack/tc --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-yarf --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-storage --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-start-menu --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-python-peewee --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-python-ilorest-library --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-rsyslog_client --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-rabbitmq_server --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-plugins --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-os_keystone --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-os_ironic --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-openstack_openrc --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-memcached_server --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-haproxy_server --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-galera_client --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-monitoring --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-ironic-virtmedia-driver --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-lockcli --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-ironicclient --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-ironic --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-hostcli --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-distributed-state-server --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-access-management --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-ansible-role-ntp --labels=[application]",
+        "https://github.com/akraino-edge-stack/sample_vnf --labels=[application]",
+        "https://github.com/akraino-edge-stack/remote-server-os-bootstrap --labels=[application]",
+        "https://github.com/akraino-edge-stack/repo-beta --labels=[application]",
+        "https://github.com/akraino-edge-stack/postgres_db_schema --labels=[application]",
+        "https://github.com/akraino-edge-stack/portal_user_interface --labels=[application]",
+        "https://github.com/akraino-edge-stack/portal --labels=[application]",
+        "https://github.com/akraino-edge-stack/ovs-dpdk-airship --labels=[application]",
+        "https://github.com/akraino-edge-stack/nc-unicycle --labels=[application]",
+        "https://github.com/akraino-edge-stack/nc-rover --labels=[application]",
+        "https://github.com/akraino-edge-stack/camunda_workflow --labels=[application]",
+        "https://github.com/akraino-edge-stack/addon-onap --labels=[application]",
+        "https://github.com/akraino-edge-stack/kni-templates --labels=[application]",
+        "https://github.com/akraino-edge-stack/starlingx --labels=[application]",
+        "https://github.com/akraino-edge-stack/kni-blueprint-ie --labels=[application]",
         "https://github.com/akraino-edge-stack/serverless"
       ],
       "meta": { "title" : "Linux" }
     },
     "Baetyl": {
       "git": [
-        "https://github.com/baetyl/baetyl.git"
+        "https://github.com/baetyl/baetyl.git --labels=[platform]"
       ],
       "github": [
-        "https://github.com/baetyl/baetyl"
+        "https://github.com/baetyl/baetyl --labels=[platform]"
       ],
       "meta": { "title" : "Linux" }
     },
     "Eve": {
       "git": [
-        "https://github.com/lf-edge/eve"
+        "https://github.com/lf-edge/eve --labels=[os_virtualization]"
       ],
       "github": [
-        "https://github.com/lf-edge/eve"
+        "https://github.com/lf-edge/eve --labels=[os_virtualization]"
       ],
       "meta": { "title" : "Linux" }
     },
     "Fledge": {
       "git": [
-        "https://github.com/foglamp/FogLAMP"
+        "https://github.com/foglamp/FogLAMP --labels=[platform]"
       ],
       "github": [
-        "https://github.com/foglamp/FogLAMP"
+        "https://github.com/foglamp/FogLAMP --labels=[platform]"
       ],
       "meta": { "title" : "Linux" }
     },
     "HomeEdge": {
       "git": [
-        "https://github.com/lf-edge/edge-home-orchestration-go.git"
+        "https://github.com/lf-edge/edge-home-orchestration-go.git --labels=[ecosystem]"
       ],
       "github": [
-        "https://github.com/lf-edge/edge-home-orchestration-go"
+        "https://github.com/lf-edge/edge-home-orchestration-go --labels=[ecosystem]"
       ],
       "meta": { "title" : "Linux" }
     },
@@ -885,10 +885,10 @@
     },
     "Mainflux": {
       "git": [
-        "https://github.com/mainflux/mainflux.git"
+        "https://github.com/mainflux/mainflux.git --labels=[platform]"
       ],
       "github": [
-        "https://github.com/mainflux/mainflux"
+        "https://github.com/mainflux/mainflux --labels=[platform]"
       ],
       "meta": { "title" : "Linux" }
     }
