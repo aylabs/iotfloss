@@ -487,13 +487,13 @@
     "iot.volttron": {
       "git": [
         "https://github.com/VOLTTRON/volttron --labels=[platform]",
-        "https://github.com/VOLTTRON/volttron-application --labels=[platform]",
+        "https://github.com/VOLTTRON/volttron-applications --labels=[platform]",
         "https://github.com/VOLTTRON/volttron-fuel-cells --labels=[platform]",
         "https://github.com/VOLTTRON/volttron-docker --labels=[platform]"
       ],
       "github": [
         "https://github.com/VOLTTRON/volttron --labels=[platform]",
-        "https://github.com/VOLTTRON/volttron-application --labels=[platform]",
+        "https://github.com/VOLTTRON/volttron-applications --labels=[platform]",
         "https://github.com/VOLTTRON/volttron-fuel-cells --labels=[platform]",
         "https://github.com/VOLTTRON/volttron-docker --labels=[platform]"
       ],
