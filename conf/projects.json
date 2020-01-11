@@ -379,10 +379,10 @@
     },
     "iot.keti": {
       "git": [
-        "https://github.com/eclipse/keti"
+        "https://github.com/eclipse/keti --labels=[platform]"
       ],
       "github": [
-        "https://github.com/eclipse/keti"
+        "https://github.com/eclipse/keti --labels=[platform]"
       ],
       "meta": { "title" : "Eclipse" }
     },
@@ -965,10 +965,10 @@
     },
     "OpenGlossary": {
       "git": [
-        "https://github.com/lf-edge/glossary.git"
+        "https://github.com/lf-edge/glossary.git --labels=[integration]"
       ],
       "github": [
-        "https://github.com/lf-edge/glossary"
+        "https://github.com/lf-edge/glossary --labels=[integration]"
       ],
       "meta": { "title" : "Linux" }
     },
