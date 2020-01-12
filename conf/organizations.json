@@ -10628,6 +10628,42 @@
                 "domain": "aloxy.io",
                 "is_top": true
             }
+        ],
+        "Edgeworx": [
+            {
+                "domain": "edgeworx.io",
+                "is_top": true
+            }
+        ],
+        "Cloudsoftcorp": [
+            {
+                "domain": "cloudsoftcorp.com",
+                "is_top": true
+            }
+        ],
+        "Circutor": [
+            {
+                "domain": "circutor.com",
+                "is_top": true
+            }
+        ],
+        "Vestas": [
+            {
+                "domain": "vestas.com",
+                "is_top": true
+            }
+        ],
+        "Oticon": [
+            {
+                "domain": "oticon.com",
+                "is_top": true
+            }
+        ],
+        "Relayr": [
+            {
+                "domain": "relayr.io",
+                "is_top": true
+            }
         ]
     },
     "time": "2016-12-02 07:34:57.999759",
