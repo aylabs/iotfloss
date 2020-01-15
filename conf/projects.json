@@ -55,24 +55,24 @@
     },
     "NiFi": {
       "git": [
-        "https://github.com/apache/nifi --labels=[integration]",
-        "https://github.com/apache/nifi-minifi --labels=[integration]",
-        "https://github.com/apache/nifi-registry --labels=[integration]",
-        "https://github.com/apache/nifi-minifi-cpp --labels=[integration]",
-        "https://github.com/apache/nifi-site --labels=[integration]",
-        "https://github.com/apache/nifi-fds --labels=[integration]",
-        "https://github.com/apache/nifi-container --labels=[integration]",
-        "https://github.com/apache/nifi-standard-libraries --labels=[integration]"
+        "https://github.com/apache/nifi --labels=[processing]",
+        "https://github.com/apache/nifi-minifi --labels=[processing]",
+        "https://github.com/apache/nifi-registry --labels=[processing]",
+        "https://github.com/apache/nifi-minifi-cpp --labels=[processing]",
+        "https://github.com/apache/nifi-site --labels=[processing]",
+        "https://github.com/apache/nifi-fds --labels=[processing]",
+        "https://github.com/apache/nifi-container --labels=[processing]",
+        "https://github.com/apache/nifi-standard-libraries --labels=[processing]"
       ],
       "github": [
-        "https://github.com/apache/nifi --labels=[integration]",
-        "https://github.com/apache/nifi-minifi --labels=[integration]",
-        "https://github.com/apache/nifi-registry --labels=[integration]",
-        "https://github.com/apache/nifi-minifi-cpp --labels=[integration]",
-        "https://github.com/apache/nifi-site --labels=[integration]",
-        "https://github.com/apache/nifi-fds --labels=[integration]",
-        "https://github.com/apache/nifi-container --labels=[integration]",
-        "https://github.com/apache/nifi-standard-libraries --labels=[integration]"
+        "https://github.com/apache/nifi --labels=[processing]",
+        "https://github.com/apache/nifi-minifi --labels=[processing]",
+        "https://github.com/apache/nifi-registry --labels=[processing]",
+        "https://github.com/apache/nifi-minifi-cpp --labels=[processing]",
+        "https://github.com/apache/nifi-site --labels=[processing]",
+        "https://github.com/apache/nifi-fds --labels=[processing]",
+        "https://github.com/apache/nifi-container --labels=[processing]",
+        "https://github.com/apache/nifi-standard-libraries --labels=[processing]"
       ],
       "meta": { "title" : "Apache" }
     },
