@@ -1,10 +1,10 @@
 {
     "Camel": {
       "git": [
-        "https://github.com/apache/camel --labels=[integration]"
+        "https://github.com/apache/camel --labels=[processing]"
       ],
       "github": [
-        "https://github.com/apache/camel --labels=[integration]"
+        "https://github.com/apache/camel --labels=[processing]"
       ],
       "meta": { "title" : "Apache" }
     },
