@@ -109,7 +109,7 @@
     },
     "iot.duttile": {
       "git": [
-        "https://git.eclipse.org/r/duttile/duttile.git"
+        "https://git.eclipse.org/r/duttile/duttile"
       ],
       "meta": { "title" : "Eclipse" }
     },
@@ -179,8 +179,8 @@
     },
     "iot.paho.incubator": {
       "git": [
-        "https://git.eclipse.org/r/paho.incubator/org.eclipse.paho.mqtt.lua.git --labels=[protocol]",
-        "https://git.eclipse.org/r/paho.incubator/smidge.git --labels=[protocol]"
+        "https://git.eclipse.org/r/paho.incubator/org.eclipse.paho.mqtt.lua --labels=[protocol]",
+        "https://git.eclipse.org/r/paho.incubator/smidge --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
@@ -225,17 +225,17 @@
     },
     "iot.eclipsescada": {
       "git": [
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.utils.git --labels=[application]",
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.base.git --labels=[application]",
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.chart.git --labels=[application]",
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.protocols.git --labels=[application]",
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.core.git --labels=[application]",
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.hmi.git --labels=[application]",
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.ide.git --labels=[application]",
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.deploy.git --labels=[application]",
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.releng.git --labels=[application]",
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.external.git --labels=[application]",
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.samples.git --labels=[application]",
+        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.utils --labels=[application]",
+        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.base --labels=[application]",
+        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.chart --labels=[application]",
+        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.protocols --labels=[application]",
+        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.core --labels=[application]",
+        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.hmi --labels=[application]",
+        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.ide --labels=[application]",
+        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.deploy --labels=[application]",
+        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.releng --labels=[application]",
+        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.external --labels=[application]",
+        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.samples --labels=[application]",
         "https://github.com/eclipse/neoscada --labels=[application]"
       ],
       "github": [
@@ -331,19 +331,19 @@
     },
     "iot.agail": {
       "git": [
-        "https://git.eclipse.org/r/agail/agail.git --labels=[integration]"
+        "https://git.eclipse.org/r/agail/agail --labels=[integration]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.tinydtls": {
       "git": [
-        "https://git.eclipse.org/r/tinydtls/org.eclipse.tinydtls.git --labels=[protocol]"
+        "https://git.eclipse.org/r/tinydtls/org.eclipse.tinydtls --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.om2m": {
       "git": [
-        "https://git.eclipse.org/r/om2m/org.eclipse.om2m.git --labels=[protocol]"
+        "https://git.eclipse.org/r/om2m/org.eclipse.om2m --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
@@ -372,7 +372,7 @@
     "iot.ignite": {
       "git": [
         "https://github.com/eclipse/ignite",
-        "https://git.eclipse.org/r/ignite/org.eclipse.ignite.git"
+        "https://git.eclipse.org/r/ignite/org.eclipse.ignite"
       ],
       "github": [
         "https://github.com/eclipse/ignite"
@@ -414,11 +414,11 @@
         "https://github.com/eclipse/paho.mqtt-spy --labels=[protocol]",
         "https://github.com/eclipse/paho.mqtt.ruby --labels=[protocol]",
         "https://github.com/eclipse/paho.mqtt.rust --labels=[protocol]",
-        "https://git.eclipse.org/r/paho/org.eclipse.paho.apps.git --labels=[protocol]",
-        "https://git.eclipse.org/r/paho/org.eclipse.paho.esf.git --labels=[protocol]",
-        "https://git.eclipse.org/r/paho/org.eclipse.paho.mqtt-sn.apps.git --labels=[protocol]",
-        "https://git.eclipse.org/r/paho/org.eclipse.paho.mqtt.lua.git --labels=[protocol]",
-        "https://git.eclipse.org/r/paho/org.eclipse.paho.mqtt.objc.git --labels=[protocol]"
+        "https://git.eclipse.org/r/paho/org.eclipse.paho.apps --labels=[protocol]",
+        "https://git.eclipse.org/r/paho/org.eclipse.paho.esf --labels=[protocol]",
+        "https://git.eclipse.org/r/paho/org.eclipse.paho.mqtt-sn.apps --labels=[protocol]",
+        "https://git.eclipse.org/r/paho/org.eclipse.paho.mqtt.lua --labels=[protocol]",
+        "https://git.eclipse.org/r/paho/org.eclipse.paho.mqtt.objc --labels=[protocol]"
       ],
       "github": [
         "https://github.com/eclipse/paho.mqtt.c --labels=[protocol]",
@@ -469,8 +469,8 @@
         "https://github.com/eclipse/kuksa.integration --labels=[application]",
         "https://github.com/eclipse/kuksa.invehicle --labels=[application]",
         "https://github.com/eclipse/kuksa.website --labels=[application]",
-        "https://git.eclipse.org/r/kuksa/kuksa.git --labels=[application]",
-        "https://git.eclipse.org/r/kuksa/www.git --labels=[application]"
+        "https://git.eclipse.org/r/kuksa/kuksa --labels=[application]",
+        "https://git.eclipse.org/r/kuksa/www --labels=[application]"
       ],
       "github": [
         "https://github.com/eclipse/kuksa.apps --labels=[application]",
@@ -554,9 +554,9 @@
     },
     "iot.4diac": {
       "git": [
-        "https://git.eclipse.org/r/4diac/org.eclipse.4diac.examples.git --labels=[protocol]",
-        "https://git.eclipse.org/r/4diac/org.eclipse.4diac.forte.git --labels=[protocol]",
-        "https://git.eclipse.org/r/4diac/org.eclipse.4diac.ide.git --labels=[protocol]"
+        "https://git.eclipse.org/r/4diac/org.eclipse.4diac.examples --labels=[protocol]",
+        "https://git.eclipse.org/r/4diac/org.eclipse.4diac.forte --labels=[protocol]",
+        "https://git.eclipse.org/r/4diac/org.eclipse.4diac.ide --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
@@ -931,7 +931,7 @@
     },
     "Baetyl": {
       "git": [
-        "https://github.com/baetyl/baetyl.git --labels=[platform]"
+        "https://github.com/baetyl/baetyl --labels=[platform]"
       ],
       "github": [
         "https://github.com/baetyl/baetyl --labels=[platform]"
@@ -958,7 +958,7 @@
     },
     "HomeEdge": {
       "git": [
-        "https://github.com/lf-edge/edge-home-orchestration-go.git --labels=[ecosystem]"
+        "https://github.com/lf-edge/edge-home-orchestration-go --labels=[ecosystem]"
       ],
       "github": [
         "https://github.com/lf-edge/edge-home-orchestration-go --labels=[ecosystem]"
@@ -967,7 +967,7 @@
     },
     "OpenGlossary": {
       "git": [
-        "https://github.com/lf-edge/glossary.git --labels=[integration]"
+        "https://github.com/lf-edge/glossary --labels=[integration]"
       ],
       "github": [
         "https://github.com/lf-edge/glossary --labels=[integration]"
@@ -976,7 +976,7 @@
     },
     "Mainflux": {
       "git": [
-        "https://github.com/mainflux/mainflux.git --labels=[platform]"
+        "https://github.com/mainflux/mainflux --labels=[platform]"
       ],
       "github": [
         "https://github.com/mainflux/mainflux --labels=[platform]"
