@@ -256,10 +256,12 @@
     "iot.ditto": {
       "git": [
         "https://github.com/eclipse/ditto --labels=[application]",
+        "https://github.com/eclipse/ditto-clients --labels=[application]",
         "https://github.com/eclipse/ditto-examples --labels=[application]"
       ],
       "github": [
         "https://github.com/eclipse/ditto --labels=[application]",
+        "https://github.com/eclipse/ditto-clients --labels=[application]",
         "https://github.com/eclipse/ditto-examples --labels=[application]"
       ],
       "meta": { "title" : "Eclipse" }
