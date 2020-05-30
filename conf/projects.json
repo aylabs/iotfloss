@@ -6,6 +6,9 @@
       "github": [
         "https://github.com/apache/camel --labels=[processing]"
       ],
+      "github2:issue": [
+        "https://github.com/apache/camel --labels=[processing]"
+      ],
       "meta": { "title" : "Apache" }
     },
     "mynewt-core": {
@@ -13,6 +16,9 @@
           "https://github.com/apache/mynewt-core --labels=[os_virtualization]"
         ],
       "github": [
+          "https://github.com/apache/mynewt-core --labels=[os_virtualization]"
+        ],
+      "github2:issue": [
           "https://github.com/apache/mynewt-core --labels=[os_virtualization]"
         ],
       "meta": { "title" : "Apache" }
@@ -24,6 +30,9 @@
       "github": [
         "https://github.com/apache/plc4x --labels=[protocol]"
       ],
+      "github2:issue": [
+        "https://github.com/apache/plc4x --labels=[protocol]"
+      ],
       "meta": { "title" : "Apache" }
     },
     "Edgent": {
@@ -31,6 +40,9 @@
         "https://github.com/apache/incubator-retired-edgent --labels=[processing]"
       ],
       "github": [
+        "https://github.com/apache/incubator-retired-edgent --labels=[processing]"
+      ],
+      "github2:issue": [
         "https://github.com/apache/incubator-retired-edgent --labels=[processing]"
       ],
       "meta": { "title" : "Apache" }
@@ -42,6 +54,9 @@
       "github": [
         "https://github.com/apache/incubator-mxnet --labels=[processing]"
       ],
+      "github2:issue": [
+        "https://github.com/apache/incubator-mxnet --labels=[processing]"
+      ],
       "meta": { "title" : "Apache" }
     },
     "IoTDB": {
@@ -49,6 +64,9 @@
         "https://github.com/apache/incubator-iotdb --labels=[persistence]"
       ],
       "github": [
+        "https://github.com/apache/incubator-iotdb --labels=[persistence]"
+      ],
+      "github2:issue": [
         "https://github.com/apache/incubator-iotdb --labels=[persistence]"
       ],
       "meta": { "title" : "Apache" }
@@ -65,6 +83,16 @@
         "https://github.com/apache/nifi-standard-libraries --labels=[processing]"
       ],
       "github": [
+        "https://github.com/apache/nifi --labels=[processing]",
+        "https://github.com/apache/nifi-minifi --labels=[processing]",
+        "https://github.com/apache/nifi-registry --labels=[processing]",
+        "https://github.com/apache/nifi-minifi-cpp --labels=[processing]",
+        "https://github.com/apache/nifi-site --labels=[processing]",
+        "https://github.com/apache/nifi-fds --labels=[processing]",
+        "https://github.com/apache/nifi-container --labels=[processing]",
+        "https://github.com/apache/nifi-standard-libraries --labels=[processing]"
+      ],
+      "github2:issue": [
         "https://github.com/apache/nifi --labels=[processing]",
         "https://github.com/apache/nifi-minifi --labels=[processing]",
         "https://github.com/apache/nifi-registry --labels=[processing]",
@@ -95,14 +123,25 @@
         "https://github.com/apache/brooklyn-dist --labels=[application]",
         "https://github.com/apache/brooklyn-docs --labels=[application]"
       ],
+      "github2:issue": [
+        "https://github.com/apache/brooklyn --labels=[application]",
+        "https://github.com/apache/brooklyn-server --labels=[application]",
+        "https://github.com/apache/brooklyn-ui --labels=[application]",
+        "https://github.com/apache/brooklyn-library --labels=[application]",
+        "https://github.com/apache/brooklyn-client --labels=[application]",
+        "https://github.com/apache/brooklyn-dist --labels=[application]",
+        "https://github.com/apache/brooklyn-docs --labels=[application]"
+      ],
       "meta": { "title" : "Apache" }
     },
-
     "iot.cyclonedds": {
       "git": [
         "https://github.com/eclipse/cyclonedds --labels=[protocol]"
       ],
       "github": [
+        "https://github.com/eclipse/cyclonedds --labels=[protocol]"
+      ],
+      "github2:issue": [
         "https://github.com/eclipse/cyclonedds --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
@@ -128,6 +167,13 @@
         "https://github.com/eclipse/iottestware.fuzzing --labels=[protocol]",
         "https://github.com/eclipse/iottestware.opcua --labels=[protocol]"
       ],
+      "github2:issue": [
+        "https://github.com/eclipse/iottestware --labels=[protocol]",
+        "https://github.com/eclipse/iottestware.coap --labels=[protocol]",
+        "https://github.com/eclipse/iottestware.mqtt --labels=[protocol]",
+        "https://github.com/eclipse/iottestware.fuzzing --labels=[protocol]",
+        "https://github.com/eclipse/iottestware.opcua --labels=[protocol]"
+      ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.leshan": {
@@ -136,6 +182,10 @@
         "https://github.com/eclipse/leshan.osgi --labels=[protocol]"
       ],
       "github": [
+        "https://github.com/eclipse/leshan --labels=[protocol]",
+        "https://github.com/eclipse/leshan.osgi --labels=[protocol]"
+      ],
+      "github2:issue": [
         "https://github.com/eclipse/leshan --labels=[protocol]",
         "https://github.com/eclipse/leshan.osgi --labels=[protocol]"
       ],
@@ -148,6 +198,9 @@
       "github": [
         "https://github.com/eclipse/ponte --labels=[framework]"
       ],
+      "github2:issue": [
+        "https://github.com/eclipse/ponte --labels=[framework]"
+      ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.concierge": {
@@ -155,6 +208,9 @@
         "https://github.com/eclipse/concierge --labels=[os_virtualization]"
       ],
       "github": [
+        "https://github.com/eclipse/concierge --labels=[os_virtualization]"
+      ],
+      "github2:issue": [
         "https://github.com/eclipse/concierge --labels=[os_virtualization]"
       ],
       "meta": { "title" : "Eclipse" }
@@ -166,6 +222,9 @@
       "github": [
         "https://github.com/eclipse/wakaama --labels=[protocol]"
       ],
+      "github2:issue": [
+        "https://github.com/eclipse/wakaama --labels=[protocol]"
+      ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.keyple": {
@@ -175,12 +234,15 @@
       "github": [
         "https://github.com/eclipse/keyple --labels=[protocol]"
       ],
+      "github2:issue": [
+        "https://github.com/eclipse/keyple --labels=[protocol]"
+      ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.paho.incubator": {
       "git": [
-        "https://git.eclipse.org/r/paho.incubator/org.eclipse.paho.mqtt.lua --labels=[protocol]",
-        "https://git.eclipse.org/r/paho.incubator/smidge --labels=[protocol]"
+        "https://git.eclipse.org/c/paho.incubator/org.eclipse.paho.mqtt.lua.git --labels=[protocol]",
+        "https://git.eclipse.org/c/paho.incubator/smidge.git --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
@@ -201,6 +263,14 @@
         "https://github.com/eclipse/californium.tools --labels=[protocol]",
         "https://github.com/eclipse/californium.core --labels=[protocol]"
       ],
+      "github2:issue": [
+        "https://github.com/eclipse/californium --labels=[protocol]",
+        "https://github.com/eclipse/californium.actinium --labels=[protocol]",
+        "https://github.com/eclipse/californium.element-connector --labels=[protocol]",
+        "https://github.com/eclipse/californium.scandium --labels=[protocol]",
+        "https://github.com/eclipse/californium.tools --labels=[protocol]",
+        "https://github.com/eclipse/californium.core --labels=[protocol]"
+      ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.kapua": {
@@ -208,6 +278,9 @@
         "https://github.com/eclipse/kapua --labels=[platform]"
       ],
       "github": [
+        "https://github.com/eclipse/kapua --labels=[platform]"
+      ],
+      "github2:issue": [
         "https://github.com/eclipse/kapua --labels=[platform]"
       ],
       "meta": { "title" : "Eclipse" }
@@ -221,24 +294,31 @@
         "https://github.com/eclipse/thingweb.website --labels=[platform]",
         "https://github.com/eclipse/thingweb.node-wot --labels=[platform]"
       ],
+      "github2:issue": [
+        "https://github.com/eclipse/thingweb.website --labels=[platform]",
+        "https://github.com/eclipse/thingweb.node-wot --labels=[platform]"
+      ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.eclipsescada": {
       "git": [
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.utils --labels=[application]",
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.base --labels=[application]",
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.chart --labels=[application]",
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.protocols --labels=[application]",
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.core --labels=[application]",
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.hmi --labels=[application]",
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.ide --labels=[application]",
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.deploy --labels=[application]",
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.releng --labels=[application]",
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.external --labels=[application]",
-        "https://git.eclipse.org/r/eclipsescada/org.eclipse.scada.samples --labels=[application]",
+        "https://git.eclipse.org/c/eclipsescada/org.eclipse.scada.utils.git --labels=[application]",
+        "https://git.eclipse.org/c/eclipsescada/org.eclipse.scada.base.git --labels=[application]",
+        "https://git.eclipse.org/c/eclipsescada/org.eclipse.scada.chart.git --labels=[application]",
+        "https://git.eclipse.org/c/eclipsescada/org.eclipse.scada.protocols.git --labels=[application]",
+        "https://git.eclipse.org/c/eclipsescada/org.eclipse.scada.core.git --labels=[application]",
+        "https://git.eclipse.org/c/eclipsescada/org.eclipse.scada.hmi.git --labels=[application]",
+        "https://git.eclipse.org/c/eclipsescada/org.eclipse.scada.ide.git --labels=[application]",
+        "https://git.eclipse.org/c/eclipsescada/org.eclipse.scada.deploy.git --labels=[application]",
+        "https://git.eclipse.org/c/eclipsescada/org.eclipse.scada.releng.git --labels=[application]",
+        "https://git.eclipse.org/c/eclipsescada/org.eclipse.scada.external.git --labels=[application]",
+        "https://git.eclipse.org/c/eclipsescada/org.eclipse.scada.samples.git --labels=[application]",
         "https://github.com/eclipse/neoscada --labels=[application]"
       ],
       "github": [
+        "https://github.com/eclipse/neoscada --labels=[application]"
+      ],
+      "github2:issue": [
         "https://github.com/eclipse/neoscada --labels=[application]"
       ],
       "meta": { "title" : "Eclipse" }
@@ -249,6 +329,9 @@
         "https://github.com/eclipse/kura-apps --labels=[integration]"
       ],
       "github": [
+        "https://github.com/eclipse/kura --labels=[integration]"
+      ],
+      "github2:issue": [
         "https://github.com/eclipse/kura --labels=[integration]"
       ],
       "meta": { "title" : "Eclipse" }
@@ -264,6 +347,11 @@
         "https://github.com/eclipse/ditto-clients --labels=[application]",
         "https://github.com/eclipse/ditto-examples --labels=[application]"
       ],
+      "github2:issue": [
+        "https://github.com/eclipse/ditto --labels=[application]",
+        "https://github.com/eclipse/ditto-clients --labels=[application]",
+        "https://github.com/eclipse/ditto-examples --labels=[application]"
+      ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.vorto": {
@@ -271,6 +359,9 @@
         "https://github.com/eclipse/vorto --labels=[application]"
       ],
       "github": [
+        "https://github.com/eclipse/vorto --labels=[application]"
+      ],
+      "github2:issue": [
         "https://github.com/eclipse/vorto --labels=[application]"
       ],
       "meta": { "title" : "Eclipse" }
@@ -316,6 +407,26 @@
 	"https://github.com/eclipse-fog05/plugin-os-linux --labels=[fog]",
 	"https://github.com/eclipse-fog05/plugin-fdu-ros2 --labels=[fog]"
       ],
+      "github2:issue": [
+        "https://github.com/eclipse-fog05/agent --labels=[fog]",
+        "https://github.com/eclipse-fog05/api-go --labels=[fog]",
+        "https://github.com/eclipse-fog05/api-ocaml --labels=[fog]",
+        "https://github.com/eclipse-fog05/sdk-ocaml --labels=[fog]",
+        "https://github.com/eclipse-fog05/plugin-fdu-containerd --labels=[fog]",
+        "https://github.com/eclipse-fog05/sdk-go --labels=[fog]",
+        "https://github.com/eclipse-fog05/plugin-fdu-native --labels=[fog]",
+        "https://github.com/eclipse-fog05/plugin-fdu-lxd --labels=[fog]",
+        "https://github.com/eclipse-fog05/plugin-fdu-kvm --labels=[fog]",
+        "https://github.com/eclipse-fog05/plugin-net-linuxbridge --labels=[fog]",
+        "https://github.com/eclipse-fog05/fog05 --labels=[fog]",
+        "https://github.com/eclipse-fog05/api-python --labels=[fog]",
+        "https://github.com/eclipse-fog05/sdk-python --labels=[fog]",
+        "https://github.com/eclipse-fog05/website --labels=[fog]",
+        "https://github.com/eclipse-fog05/examples --labels=[fog]",
+        "https://github.com/eclipse-fog05/plugin-os-windows --labels=[fog]",
+        "https://github.com/eclipse-fog05/plugin-os-linux --labels=[fog]",
+        "https://github.com/eclipse-fog05/plugin-fdu-ros2 --labels=[fog]"
+      ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.mosquitto": {
@@ -327,23 +438,27 @@
         "https://github.com/eclipse/mosquitto.rsmb --labels=[platform]",
         "https://github.com/eclipse/mosquitto --labels=[platform]"
       ],
+      "github2:issue": [
+        "https://github.com/eclipse/mosquitto.rsmb --labels=[platform]",
+        "https://github.com/eclipse/mosquitto --labels=[platform]"
+      ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.agail": {
       "git": [
-        "https://git.eclipse.org/r/agail/agail --labels=[integration]"
+        "https://git.eclipse.org/c/agail/agail.git --labels=[integration]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.tinydtls": {
       "git": [
-        "https://git.eclipse.org/r/tinydtls/org.eclipse.tinydtls --labels=[protocol]"
+        "https://git.eclipse.org/c/tinydtls/org.eclipse.tinydtls.git --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.om2m": {
       "git": [
-        "https://git.eclipse.org/r/om2m/org.eclipse.om2m --labels=[protocol]"
+        "https://git.eclipse.org/c/om2m/org.eclipse.om2m.git --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
@@ -358,6 +473,11 @@
         "https://github.com/eclipse/hawkbit-extensions --labels=[os_virtualization]",
         "https://github.com/eclipse/hawkbit-examples --labels=[os_virtualization]"
       ],
+      "github2:issue": [
+        "https://github.com/eclipse/hawkbit --labels=[os_virtualization]",
+        "https://github.com/eclipse/hawkbit-extensions --labels=[os_virtualization]",
+        "https://github.com/eclipse/hawkbit-examples --labels=[os_virtualization]"
+      ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.milo": {
@@ -367,14 +487,20 @@
       "github": [
         "https://github.com/eclipse/milo --labels=[protocol]"
       ],
+      "github2:issue": [
+        "https://github.com/eclipse/milo --labels=[protocol]"
+      ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.ignite": {
       "git": [
         "https://github.com/eclipse/ignite",
-        "https://git.eclipse.org/r/ignite/org.eclipse.ignite"
+        "https://git.eclipse.org/c/ignite/org.eclipse.ignite.git"
       ],
       "github": [
+        "https://github.com/eclipse/ignite"
+      ],
+      "github2:issue": [
         "https://github.com/eclipse/ignite"
       ],
       "meta": { "title" : "Eclipse" }
@@ -386,6 +512,9 @@
       "github": [
         "https://github.com/eclipse/keti --labels=[platform]"
       ],
+      "github2:issue": [
+        "https://github.com/eclipse/keti --labels=[platform]"
+      ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.hono": {
@@ -393,6 +522,9 @@
         "https://github.com/eclipse/hono --labels=[platform]"
       ],
       "github": [
+        "https://github.com/eclipse/hono --labels=[platform]"
+      ],
+      "github2:issue": [
         "https://github.com/eclipse/hono --labels=[platform]"
       ],
       "meta": { "title" : "Eclipse" }
@@ -414,13 +546,30 @@
         "https://github.com/eclipse/paho.mqtt-spy --labels=[protocol]",
         "https://github.com/eclipse/paho.mqtt.ruby --labels=[protocol]",
         "https://github.com/eclipse/paho.mqtt.rust --labels=[protocol]",
-        "https://git.eclipse.org/r/paho/org.eclipse.paho.apps --labels=[protocol]",
-        "https://git.eclipse.org/r/paho/org.eclipse.paho.esf --labels=[protocol]",
-        "https://git.eclipse.org/r/paho/org.eclipse.paho.mqtt-sn.apps --labels=[protocol]",
-        "https://git.eclipse.org/r/paho/org.eclipse.paho.mqtt.lua --labels=[protocol]",
-        "https://git.eclipse.org/r/paho/org.eclipse.paho.mqtt.objc --labels=[protocol]"
+        "https://git.eclipse.org/c/paho/org.eclipse.paho.apps.git --labels=[protocol]",
+        "https://git.eclipse.org/c/paho/org.eclipse.paho.esf.git --labels=[protocol]",
+        "https://git.eclipse.org/c/paho/org.eclipse.paho.mqtt-sn.apps.git --labels=[protocol]",
+        "https://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.lua.git --labels=[protocol]",
+        "https://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.objc.git --labels=[protocol]"
       ],
       "github": [
+        "https://github.com/eclipse/paho.mqtt.c --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.python --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.javascript --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.embedded-c --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.java --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.cpp --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.golang --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt-sn.embedded-c --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.m2mqtt --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.testing --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.android --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.d --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt-spy --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.ruby --labels=[protocol]",
+        "https://github.com/eclipse/paho.mqtt.rust --labels=[protocol]"
+      ],
+      "github2:issue": [
         "https://github.com/eclipse/paho.mqtt.c --labels=[protocol]",
         "https://github.com/eclipse/paho.mqtt.python --labels=[protocol]",
         "https://github.com/eclipse/paho.mqtt.javascript --labels=[protocol]",
@@ -450,6 +599,11 @@
         "https://github.com/eclipse/unide.java --labels=[protocol]",
         "https://github.com/eclipse/unide.python --labels=[protocol]"
       ],
+      "github2:issue": [
+        "https://github.com/eclipse/unide --labels=[protocol]",
+        "https://github.com/eclipse/unide.java --labels=[protocol]",
+        "https://github.com/eclipse/unide.python --labels=[protocol]"
+      ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.mita": {
@@ -457,6 +611,9 @@
         "https://github.com/eclipse/mita --labels=[application]"
       ],
       "github": [
+        "https://github.com/eclipse/mita --labels=[application]"
+      ],
+      "github2:issue": [
         "https://github.com/eclipse/mita --labels=[application]"
       ],
       "meta": { "title" : "Eclipse" }
@@ -469,10 +626,18 @@
         "https://github.com/eclipse/kuksa.integration --labels=[application]",
         "https://github.com/eclipse/kuksa.invehicle --labels=[application]",
         "https://github.com/eclipse/kuksa.website --labels=[application]",
-        "https://git.eclipse.org/r/kuksa/kuksa --labels=[application]",
-        "https://git.eclipse.org/r/kuksa/www --labels=[application]"
+        "https://git.eclipse.org/c/kuksa/kuksa.git --labels=[application]",
+        "https://git.eclipse.org/c/kuksa/www.git --labels=[application]"
       ],
       "github": [
+        "https://github.com/eclipse/kuksa.apps --labels=[application]",
+        "https://github.com/eclipse/kuksa.cloud --labels=[application]",
+        "https://github.com/eclipse/kuksa.ide --labels=[application]",
+        "https://github.com/eclipse/kuksa.integration --labels=[application]",
+        "https://github.com/eclipse/kuksa.invehicle --labels=[application]",
+        "https://github.com/eclipse/kuksa.website --labels=[application]"
+      ],
+      "github2:issue": [
         "https://github.com/eclipse/kuksa.apps --labels=[application]",
         "https://github.com/eclipse/kuksa.cloud --labels=[application]",
         "https://github.com/eclipse/kuksa.ide --labels=[application]",
@@ -541,6 +706,35 @@
 	"https://github.com/eclipse-iofog/restblue --labels=[fog]",
 	"https://github.com/eclipse-iofog/test-message-generator --labels=[fog]"
       ],
+      "github2:issue": [
+        "https://github.com/eclipse-iofog/iofog-go-sdk --labels=[fog]",
+        "https://github.com/eclipse-iofog/iofog-operator --labels=[fog]",
+        "https://github.com/eclipse-iofog/iofogctl --labels=[fog]",
+        "https://github.com/eclipse-iofog/Agent --labels=[fog]",
+        "https://github.com/eclipse-iofog/iofog.org --labels=[fog]",
+        "https://github.com/eclipse-iofog/Connector --labels=[fog]",
+        "https://github.com/eclipse-iofog/homebrew-iofogctl --labels=[fog]",
+        "https://github.com/eclipse-iofog/Controller --labels=[fog]",
+        "https://github.com/eclipse-iofog/iofog-kubelet --labels=[fog]",
+        "https://github.com/eclipse-iofog/demo --labels=[fog]",
+        "https://github.com/eclipse-iofog/iofog-nodejs-sdk --labels=[fog]",
+        "https://github.com/eclipse-iofog/iofog-python-sdk --labels=[fog]",
+        "https://github.com/eclipse-iofog/platform --labels=[fog]",
+        "https://github.com/eclipse-iofog/helm --labels=[fog]",
+        "https://github.com/eclipse-iofog/test-runner --labels=[fog]",
+        "https://github.com/eclipse-iofog/ECN-Viewer --labels=[fog]",
+        "https://github.com/eclipse-iofog/iofog-docker-images --labels=[fog]",
+        "https://github.com/eclipse-iofog/example-microservices --labels=[fog]",
+        "https://github.com/eclipse-iofog/core-networking --labels=[fog]",
+        "https://github.com/eclipse-iofog/iofog-scheduler --labels=[fog]",
+        "https://github.com/eclipse-iofog/HardwareAbstraction --labels=[fog]",
+        "https://github.com/eclipse-iofog/common-logging --labels=[fog]",
+        "https://github.com/eclipse-iofog/iofog-java-sdk --labels=[fog]",
+        "https://github.com/eclipse-iofog/iofog-c-sdk --labels=[fog]",
+        "https://github.com/eclipse-iofog/iofog-csharp-sdk --labels=[fog]",
+        "https://github.com/eclipse-iofog/restblue --labels=[fog]",
+        "https://github.com/eclipse-iofog/test-message-generator --labels=[fog]"
+      ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.tahu": {
@@ -550,13 +744,16 @@
       "github": [
         "https://github.com/eclipse/tahu --labels=[protocol]"
       ],
+      "github2:issue": [
+        "https://github.com/eclipse/tahu --labels=[protocol]"
+      ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.4diac": {
       "git": [
-        "https://git.eclipse.org/r/4diac/org.eclipse.4diac.examples --labels=[protocol]",
-        "https://git.eclipse.org/r/4diac/org.eclipse.4diac.forte --labels=[protocol]",
-        "https://git.eclipse.org/r/4diac/org.eclipse.4diac.ide --labels=[protocol]"
+        "https://git.eclipse.org/c/4diac/org.eclipse.4diac.examples.git --labels=[protocol]",
+        "https://git.eclipse.org/c/4diac/org.eclipse.4diac.forte.git --labels=[protocol]",
+        "https://git.eclipse.org/c/4diac/org.eclipse.4diac.ide.git --labels=[protocol]"
       ],
       "meta": { "title" : "Eclipse" }
     },
@@ -573,6 +770,12 @@
         "https://github.com/eclipse/smarthome-packaging-sample --labels=[platform]",
         "https://github.com/eclipse/smarthome-designer --labels=[platform]"
       ],
+      "github2:issue": [
+        "https://github.com/eclipse/smarthome --labels=[platform]",
+        "https://github.com/eclipse/smarthome.osgi-ri.enocean --labels=[platform]",
+        "https://github.com/eclipse/smarthome-packaging-sample --labels=[platform]",
+        "https://github.com/eclipse/smarthome-designer --labels=[platform]"
+      ],
       "meta": { "title" : "Eclipse" }
     },
     "iot.volttron": {
@@ -583,6 +786,12 @@
         "https://github.com/VOLTTRON/volttron-docker --labels=[platform]"
       ],
       "github": [
+        "https://github.com/VOLTTRON/volttron --labels=[platform]",
+        "https://github.com/VOLTTRON/volttron-applications --labels=[platform]",
+        "https://github.com/VOLTTRON/volttron-fuel-cells --labels=[platform]",
+        "https://github.com/VOLTTRON/volttron-docker --labels=[platform]"
+      ],
+      "github2:issue": [
         "https://github.com/VOLTTRON/volttron --labels=[platform]",
         "https://github.com/VOLTTRON/volttron-applications --labels=[platform]",
         "https://github.com/VOLTTRON/volttron-fuel-cells --labels=[platform]",
@@ -604,6 +813,18 @@
         "https://github.com/iotivity/iotivity-contrib --labels=[framework]"
       ],
       "github": [
+        "https://github.com/iotivity/iotivity --labels=[framework]",
+        "https://github.com/iotivity/iotivity-lite --labels=[framework]",
+        "https://github.com/iotivity/ci-management --labels=[framework]",
+        "https://github.com/iotivity/iotivity-constrained --labels=[framework]",
+        "https://github.com/iotivity/iotivity-upnp-bridge --labels=[framework]",
+        "https://github.com/iotivity/iotivity-alljoyn-bridge --labels=[framework]",
+        "https://github.com/iotivity/iotivity-voice --labels=[framework]",
+        "https://github.com/iotivity/iotivity-xmpp --labels=[framework]",
+        "https://github.com/iotivity/iotivity-node --labels=[framework]",
+        "https://github.com/iotivity/iotivity-contrib --labels=[framework]"
+      ],
+      "github2:issue": [
         "https://github.com/iotivity/iotivity --labels=[framework]",
         "https://github.com/iotivity/iotivity-lite --labels=[framework]",
         "https://github.com/iotivity/ci-management --labels=[framework]",
@@ -696,6 +917,45 @@
         "https://github.com/edgexfoundry/go-mod-messaging --labels=[framework]",
         "https://github.com/edgexfoundry/git-semver --labels=[framework]"
       ],
+      "github2:issue": [
+        "https://github.com/edgexfoundry/device-grove-c --labels=[framework]",
+        "https://github.com/edgexfoundry/device-sdk-c --labels=[framework]",
+        "https://github.com/edgexfoundry/device-sdk-go --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-go --labels=[framework]",
+        "https://github.com/edgexfoundry/device-bacnet-c --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-taf --labels=[framework]",
+        "https://github.com/edgexfoundry/demo-grove-pi --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-ui-go --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-global-pipelines --labels=[framework]",
+        "https://github.com/edgexfoundry/docker-edgex-consul --labels=[framework]",
+        "https://github.com/edgexfoundry/docker-edgex-volume --labels=[framework]",
+        "https://github.com/edgexfoundry/device-snmp-go --labels=[framework]",
+        "https://github.com/edgexfoundry/device-modbus-go --labels=[framework]",
+        "https://github.com/edgexfoundry/device-virtual-go --labels=[framework]",
+        "https://github.com/edgexfoundry/device-random --labels=[framework]",
+        "https://github.com/edgexfoundry/device-mqtt-go --labels=[framework]",
+        "https://github.com/edgexfoundry/ci-management --labels=[framework]",
+        "https://github.com/edgexfoundry/go-mod-core-contracts --labels=[framework]",
+        "https://github.com/edgexfoundry/docker-edgex-mongo --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-docs --labels=[framework]",
+        "https://github.com/edgexfoundry/developer-scripts --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-ui-clojure --labels=[framework]",
+        "https://github.com/edgexfoundry/blackbox-testing --labels=[framework]",
+        "https://github.com/edgexfoundry/app-functions-sdk-go --labels=[framework]",
+        "https://github.com/edgexfoundry/app-service-configurable --labels=[framework]",
+        "https://github.com/edgexfoundry/device-camera-go --labels=[framework]",
+        "https://github.com/edgexfoundry/support-rulesengine --labels=[framework]",
+        "https://github.com/edgexfoundry/go-mod-secrets --labels=[framework]",
+        "https://github.com/edgexfoundry/ci-build-images --labels=[framework]",
+        "https://github.com/edgexfoundry/edgex-taf-common --labels=[framework]",
+        "https://github.com/edgexfoundry/sample-service --labels=[framework]",
+        "https://github.com/edgexfoundry/go-mod-registry --labels=[framework]",
+        "https://github.com/edgexfoundry/performance-test --labels=[framework]",
+        "https://github.com/edgexfoundry/security-api-gateway --labels=[framework]",
+        "https://github.com/edgexfoundry/security-secret-store --labels=[framework]",
+        "https://github.com/edgexfoundry/go-mod-messaging --labels=[framework]",
+        "https://github.com/edgexfoundry/git-semver --labels=[framework]"
+      ],
       "meta": { "title" : "Linux" }
     },
     "Dronecode": {
@@ -735,6 +995,24 @@
         "https://github.com/Dronecode/Dronecode-util --labels=[ecosystem]",
         "https://github.com/Dronecode/Vagrant --labels=[ecosystem]"
       ],
+      "github2:issue": [
+        "https://github.com/Dronecode/camera-manager --labels=[ecosystem]",
+        "https://github.com/Dronecode/camera-manager-docs --labels=[ecosystem]",
+        "https://github.com/Dronecode/Technical-Steering-Committee --labels=[ecosystem]",
+        "https://github.com/Dronecode/plugin-mathjax --labels=[ecosystem]",
+        "https://github.com/Dronecode/Events --labels=[ecosystem]",
+        "https://github.com/Dronecode/testing-zenhub --labels=[ecosystem]",
+        "https://github.com/Dronecode/gitbook-plugin-bulk-redirect --labels=[ecosystem]",
+        "https://github.com/Dronecode/gitbook-plugin-richquotes --labels=[ecosystem]",
+        "https://github.com/Dronecode/gitdm --labels=[ecosystem]",
+        "https://github.com/Dronecode/theme-dronecode --labels=[ecosystem]",
+        "https://github.com/Dronecode/dronecode-wordpress-theme --labels=[ecosystem]",
+        "https://github.com/Dronecode/UX-Design --labels=[ecosystem]",
+        "https://github.com/Dronecode/gitbook-plugin-versions-select --labels=[ecosystem]",
+        "https://github.com/Dronecode/Dronecode-Website-Issues --labels=[ecosystem]",
+        "https://github.com/Dronecode/Dronecode-util --labels=[ecosystem]",
+        "https://github.com/Dronecode/Vagrant --labels=[ecosystem]"
+      ],
       "meta": { "title" : "Linux" }
     },
     "Zephyr": {
@@ -742,6 +1020,9 @@
         "https://github.com/zephyrproject-rtos/zephyr --labels=[os_virtualization]"
       ],
       "github": [
+        "https://github.com/zephyrproject-rtos/zephyr --labels=[os_virtualization]"
+      ],
+      "github2:issue": [
         "https://github.com/zephyrproject-rtos/zephyr --labels=[os_virtualization]"
       ],
       "meta": { "title" : "Linux" }
@@ -927,6 +1208,96 @@
         "https://github.com/akraino-edge-stack/kni-blueprint-ie --labels=[application]",
         "https://github.com/akraino-edge-stack/serverless"
       ],
+      "github2:issue": [
+        "https://github.com/akraino-edge-stack/iec --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-build-tools --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-kubernetes --labels=[application]",
+        "https://github.com/akraino-edge-stack/kni-blueprint-pae --labels=[application]",
+        "https://github.com/akraino-edge-stack/ci-management --labels=[application]",
+        "https://github.com/akraino-edge-stack/icn-daaas --labels=[application]",
+        "https://github.com/akraino-edge-stack/kni-installer --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-install --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-danm --labels=[application]",
+        "https://github.com/akraino-edge-stack/icn --labels=[application]",
+        "https://github.com/akraino-edge-stack/regional_controller-api-server --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-cloudtaf --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-ipa-deployer --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-manifest --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-infra-ansible --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-cm-plugins --labels=[application]",
+        "https://github.com/akraino-edge-stack/umec --labels=[application]",
+        "https://github.com/akraino-edge-stack/yaml_builds --labels=[application]",
+        "https://github.com/akraino-edge-stack/eliot --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-cpupooler --labels=[application]",
+        "https://github.com/akraino-edge-stack/redfish --labels=[application]",
+        "https://github.com/akraino-edge-stack/airshipinabottle_deploy --labels=[application]",
+        "https://github.com/akraino-edge-stack/validation --labels=[application]",
+        "https://github.com/akraino-edge-stack/nc-ovs-dpdk-unicycle --labels=[application]",
+        "https://github.com/akraino-edge-stack/nc-seba --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-registry --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-logging --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-helm --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-etcd --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-metrics --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-kubedns --labels=[application]",
+        "https://github.com/akraino-edge-stack/regional_controller --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-security --labels=[application]",
+        "https://github.com/akraino-edge-stack/nc-tf --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-config-manager --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-os-net-config --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-image-provision --labels=[application]",
+        "https://github.com/akraino-edge-stack/rec --labels=[application]",
+        "https://github.com/akraino-edge-stack/portal_user_interface-portal-onapsdk --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-rpmbuilder --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-caas-lcm --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-galera_server --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-remote-installer --labels=[application]",
+        "https://github.com/akraino-edge-stack/mec-api-framework --labels=[application]",
+        "https://github.com/akraino-edge-stack/connected-vehicle --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-hw-detector --labels=[application]",
+        "https://github.com/akraino-edge-stack/iec-xconnect --labels=[application]",
+        "https://github.com/akraino-edge-stack/test_automation --labels=[application]",
+        "https://github.com/akraino-edge-stack/tc --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-yarf --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-storage --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-start-menu --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-python-peewee --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-python-ilorest-library --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-rsyslog_client --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-rabbitmq_server --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-plugins --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-os_keystone --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-os_ironic --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-openstack_openrc --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-memcached_server --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-haproxy_server --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible-galera_client --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-openstack-ansible --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-monitoring --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-ironic-virtmedia-driver --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-lockcli --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-ironicclient --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-ironic --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-hostcli --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-distributed-state-server --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-access-management --labels=[application]",
+        "https://github.com/akraino-edge-stack/ta-ansible-role-ntp --labels=[application]",
+        "https://github.com/akraino-edge-stack/sample_vnf --labels=[application]",
+        "https://github.com/akraino-edge-stack/remote-server-os-bootstrap --labels=[application]",
+        "https://github.com/akraino-edge-stack/repo-beta --labels=[application]",
+        "https://github.com/akraino-edge-stack/postgres_db_schema --labels=[application]",
+        "https://github.com/akraino-edge-stack/portal_user_interface --labels=[application]",
+        "https://github.com/akraino-edge-stack/portal --labels=[application]",
+        "https://github.com/akraino-edge-stack/ovs-dpdk-airship --labels=[application]",
+        "https://github.com/akraino-edge-stack/nc-unicycle --labels=[application]",
+        "https://github.com/akraino-edge-stack/nc-rover --labels=[application]",
+        "https://github.com/akraino-edge-stack/camunda_workflow --labels=[application]",
+        "https://github.com/akraino-edge-stack/addon-onap --labels=[application]",
+        "https://github.com/akraino-edge-stack/kni-templates --labels=[application]",
+        "https://github.com/akraino-edge-stack/starlingx --labels=[application]",
+        "https://github.com/akraino-edge-stack/kni-blueprint-ie --labels=[application]",
+        "https://github.com/akraino-edge-stack/serverless"
+      ],
       "meta": { "title" : "Linux" }
     },
     "Baetyl": {
@@ -934,6 +1305,9 @@
         "https://github.com/baetyl/baetyl --labels=[platform]"
       ],
       "github": [
+        "https://github.com/baetyl/baetyl --labels=[platform]"
+      ],
+      "github2:issue": [
         "https://github.com/baetyl/baetyl --labels=[platform]"
       ],
       "meta": { "title" : "Linux" }
@@ -945,6 +1319,9 @@
       "github": [
         "https://github.com/lf-edge/eve --labels=[os_virtualization]"
       ],
+      "github2:issue": [
+        "https://github.com/lf-edge/eve --labels=[os_virtualization]"
+      ],
       "meta": { "title" : "Linux" }
     },
     "Fledge": {
@@ -952,6 +1329,9 @@
         "https://github.com/foglamp/FogLAMP --labels=[platform]"
       ],
       "github": [
+        "https://github.com/foglamp/FogLAMP --labels=[platform]"
+      ],
+      "github2:issue": [
         "https://github.com/foglamp/FogLAMP --labels=[platform]"
       ],
       "meta": { "title" : "Linux" }
@@ -963,6 +1343,9 @@
       "github": [
         "https://github.com/lf-edge/edge-home-orchestration-go --labels=[ecosystem]"
       ],
+      "github2:issue": [
+        "https://github.com/lf-edge/edge-home-orchestration-go --labels=[ecosystem]"
+      ],
       "meta": { "title" : "Linux" }
     },
     "OpenGlossary": {
@@ -972,6 +1355,9 @@
       "github": [
         "https://github.com/lf-edge/glossary --labels=[integration]"
       ],
+      "github2:issue": [
+        "https://github.com/lf-edge/glossary --labels=[integration]"
+      ],
       "meta": { "title" : "Linux" }
     },
     "Mainflux": {
@@ -979,6 +1365,9 @@
         "https://github.com/mainflux/mainflux --labels=[platform]"
       ],
       "github": [
+        "https://github.com/mainflux/mainflux --labels=[platform]"
+      ],
+      "github2:issue": [
         "https://github.com/mainflux/mainflux --labels=[platform]"
       ],
       "meta": { "title" : "Linux" }

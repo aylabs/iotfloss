@@ -47,19 +47,14 @@ services:
 
     mordred:
       restart: on-failure:5
-      image: bitergia/mordred:grimoirelab-0.2.33
+      image: bitergia/mordred:latest
       volumes:
         - ./setup.cfg:/home/bitergia/conf/setup.cfg
         - ./aliases.json:/home/bitergia/conf/aliases.json
         - ./projects.json:/home/bitergia/conf/projects.json
         - ./organizations.json:/home/bitergia/conf/organizations.json
         - /tmp/:/home/bitergia/logs
-      links:
-        - redis
       depends_on:
         - mariadb
         - elasticsearch
       mem_limit: 4g
-
-    redis:
-      image: redis
